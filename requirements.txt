@@ -1,0 +1,13 @@
+# Python packages imported by Assignment.ipynb.
+# The os, re, json, time, random, subprocess, tempfile, warnings, pathlib,
+# collections, and shutil modules are part of Python's standard library.
+numpy
+pandas
+matplotlib
+torch
+transformers
+huggingface-hub
+sentencepiece
+
+# PDF extraction/OCR also requires system packages, installed separately:
+# Google Colab / Debian / Ubuntu: apt-get install poppler-utils tesseract-ocr
