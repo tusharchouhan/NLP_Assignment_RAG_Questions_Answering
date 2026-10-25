@@ -1,0 +1,974 @@
+25/10/2026, 10:23
+
+Your Aadhaar - Unique Identification Authority of India | Government of India
+
+Skip to Main Content
+Home / Help / Frequently Asked Questions / Your Aadhaar
+
+Your Aadhaar
+Home
+
+My Aadhaar
+
+Screen Reader
+
+More
+
+English
+
+Search Services
+
+About UIDAI
+
+Build with Us
+
+Media
+
+Documents
+
+Aadhaar number is a 12-digit random number assigned to an individual seeking enrolment on completing the enrolment
+process. This is twelve-digit identification number issued to an Aadhaar holder which can be authenticated through biometric,
+face authentication or mobile OTP. Aadhaar can be used to identity beneficiaries for delivery of financial and other subsidies,
+benefits and services offered by the scheme implementing agencies. Beside this, Aadhaar authentication is allowed in the
+interest of good governance preventing leakage of public funds, promoting ease of living of Aadhaar number holders and
+enabling better access to services for them.
+
+Use Aadhaar Freely
+Can a fraudster withdraw money from my Aadhaar linked bank account if he
+knows my Aadhaar number or has my Aadhaar card?
+Just by knowing your Aadhaar number or Aadhaar linked bank account, no one can withdraw
+money from Aadhaar linked bank account.
+https://uidai.gov.in/en/your-aadhaar
+
+In this section
+Use Aadhaar Freely
+Aadhaar Letter
+
+Ask
+Me Anything!
+Aadhaar
+Features, Eligibility
+1/28
+
+
+25/10/2026, 10:23
+
+Your Aadhaar - Unique Identification Authority of India | Government of India
+
+Does linking my bank account, PAN, and other services with Aadhaar make
+me vulnerable?
+No. UIDAI does not have visibility of linking of your Aadhaar with any other services. Concern
+departments such as bank, income tax etc. do not share any information of Aadhaar number
+holder neither UIDAI stores any such informations.
+
+Security in UIDAI system
+Use of Aadhaar
+Protection of Individual Information
+in UIDAI System
+
+Why am I asked to verify Bank account, Demat account, PAN and various
+other services with Aadhaar?
+
+Protection of the Individual in the
+UIDAI System
+
+Aadhaar verification/authentication is governed by the sections of Aadhaar Act, 2016, under
+which the use case has been notified by the concerned Ministry/Department for providing
+services.
+
+NRI & Aadhaar
+
+There are many agencies that simply accept physical copy of Aadhaar and
+do not carry out any biometric or OTP authentication or verification. Is this a
+good practice?
+
+No, in this connection MeitY has issued detailed instructions to all Government
+Ministries/Departments vide office memorandum no 10(22)/2017-EG-II(VOL-1)
+dated 19.06.2023 .
+I gave my Aadhaar card to a service provider for proving my identity. Can
+anyone harm me by knowing and misusing my Aadhaar number?
+No. Just, by knowing your Aadhaar number, no one can harm you. To prove your identity,
+Aadhaar number is verfied/authenticated by agencies through various modes as prescribed
+under Aadhaar Act, 2016.
+
+If Aadhaar has to be freely used for proving identity and it is safe to do so,
+then why has UIDAI advised people not to put up their Aadhaar number in
+Social Media or public domain?
+
+https://uidai.gov.in/en/your-aadhaar
+
+PAN & Aadhaar
+myAadhaar Portal
+
+Frequently Asked
+Questions
+How to download the Aadhaar
+app?
+
+How to register on the Aadhaar
+app?
+
+Which services are available on
+this app?
+2/28
+
+
+25/10/2026, 10:23
+
+Your Aadhaar - Unique Identification Authority of India | Government of India
+
+You use PAN card, debit card, credit card, bank cheques wherever required. But do you put
+these details openly on internet and social media such as Facebook, Twitter, etc.? Obviously
+no! You do not put such personal details unnecessarily in public domain so that there is no
+unwarranted invasion attempt on your privacy. The same logic needs to be applied in case of
+uses of Aadhaar.
+
+View more F.A.Qs
+
+Recently, UIDAI has issued an advisory asking people not to share their
+Aadhaar number openly in the public domain especially on Social Media or
+other public platforms. Does this mean that I should not use Aadhaar freely?
+You should use your Aadhaar without any hesitation for proving your identity and doing
+transactions, just like you use your bank account number, PAN card, debit card, credit card,
+etc., wherever required. What UIDAI has advised is that Aadhaar card should be freely used
+for proving identity and doing transactions, but should not be put on public platforms like
+Twitter, Facebook, etc. People give their debit card or credit card details or cheque (which has
+bank account number) when they purchase goods, or pay school fee, water, electricity,
+telephone and other utility bills, etc. Similarly, you can freely use your Aadhaar to establish
+your identity as and when required without any fear. While using Aadhaar, you should do the
+same level of due diligence as you do in case of other ID cards – not more, not less.
+
+Aadhaar Letter
+What is the mode of dispatch of Aadhaar letter? Can I get Aadhaar letter
+through Speed Post?
+
+As per the existing mechanism, UIDAI dispatches Aadhaar letters through 'First
+class digital franking' mode /ordinary post service of India Post and hence ,
+Aadhaar letters are not being dispatched through Speed Post.
+Does UIDAI provide any consignment number/ AWB number for tracking the
+delivery of Aadhaar letter?
+https://uidai.gov.in/en/your-aadhaar
+
+3/28
+
+
+25/10/2026, 10:23
+
+Your Aadhaar - Unique Identification Authority of India | Government of India
+
+Aadhaar Letters are dispatched through ordinary post for which no tracking
+facility is provided by India post.
+I have received the Aadhaar letter with old/ incorrect details after update/
+new enrolment. What should I do?
+
+Aadhaar letter is printed as per the details furnished by the Aadhaar number
+holder(ANH) during enrollment/ update. In case any change is required in
+Aadhaar, ANH may update accordingly.
+How do I link PAN with Aadhaar?
+For linking your PAN with Aadhaar, you may visit the website of Income Tax Department and
+follow the instructions.
+
+What is Aadhaar PVC Card? Is it equivalent to paper based laminated
+Aadhaar Letter?
+Aadhaar PVC card is PVC based Aadhaar card which can be ordered online by paying nominal
+charges. Yes.Aadhaar PVC card is equivalent to paper based Aadhaar letter.
+
+I applied for Aadhaar earlier but did not get it. So, I re-applied. When will I
+get my Aadhaar?
+
+If your Aadhaar was generated from the first Enrolment then every attempt to reenrol will be rejected. DO NOT re-apply. You can retrieve your Aadhaar:
+(a) Online using Retrieve EID/UID service available on
+https://myaadhaar.uidai.gov.in/ (if you have the registered mobile no)
+(b) By visiting any enrolment centre (c) By dialing 1947
+I recently updated my Aadhaar. Can you please expedite it? I need it
+urgently.
+https://uidai.gov.in/en/your-aadhaar
+
+4/28
+
+
+25/10/2026, 10:23
+
+Your Aadhaar - Unique Identification Authority of India | Government of India
+
+Aadhaar update has a fixed process which takes up to 90 days from the date of
+update request. The update process cannot be altered. You may check the status
+from https://myaadhaar.uidai.gov.in/CheckAadhaarStatus
+I updated my Aadhaar recently. However, the status still shows 'in process'.
+When will it get updated?
+
+Aadhaar update takes up to 90 days. If your update request is more than 90 days
+old, then please dial 1947 (toll free) or write to help[at]uidai[dot]gov[dot]in for
+further assistance.
+After I get Enroled, how long will it take to get my Aadhaar letter? And how
+do I get my Aadhaar letter?
+Aadhaar generation may take up to 90 days from the date of enrolment. Aadhaar letter is
+delivered by ordinary post at the registered address of the Aadhaar Number holder.
+
+What if Aadhaar letter is not delivered to the Aadhaar Number holder?
+
+If Aadhaar Number holder does not receive Aadhaar letter, he/she should contact
+UIDAI contact center with his/her Enrolment number or may check Aadhaar
+status online at https://myaadhaar.uidai.gov.in/CheckAadhaarStatus . Meanwhile
+Aadhaar Number holder can download e-Aadhaar. You are also requested to
+verify the correctness of the address in eAadhaar and update the same
+accordingly (if required).
+What if an Aadhaar Number holder misplaces his Aadhaar number?
+
+a) Aadhaar number holder can find his Aadhaar number using Aadhaar Service Retrieve Lost UID/EID available on https://myaadhaar.uidai.gov.in/
+b) Aadhaar number holder can call 1947 where our Contact Centre Agent will
+help him/her in getting his/her EID and the same can be used to download
+his/her eAadhaar from MyAadhaar Portal - Download Aadhaar
+https://uidai.gov.in/en/your-aadhaar
+
+5/28
+
+
+25/10/2026, 10:23
+
+Your Aadhaar - Unique Identification Authority of India | Government of India
+
+c) Aadhaar number holder can also get his/her Aadhaar number from EID
+number on IVRS system by calling 1947
+How long does it take to receive my Aadhaar letter ?
+
+Normally, within 30 days of Aadhaar Number generation/update(except mobile &
+email update), Aadhaar letter is delivered through first class franking mode
+(untrackable) services of India Post at the address registered with UIDAI.
+Can I get another copy of my Aadhaar letter ?
+
+You may download an e-Aadhaar, order an Aadhaar PVC Card, or use the Aadhaar
+App. All forms of Aadhaar are equally valid and acceptable. For more information,
+please refer to the UIDAI circular (Click here)
+
+Aadhaar Features, Eligibility
+How Date of Birth (DOB) in Aadhaar can be verified ?
+DOB in Aadhaar shall be marked as verified when a valid proof of birth document is
+submitted at the time of enrolment or update. You are requested to ensure that the operator
+selects 'verified' option for DOB. Only year of birth (YOB) shall be printed on your Aadhaar
+Letter if the DOB is marked as 'declared' or 'approximate'.
+
+What is the process to be followed for Aadhaar enrolment and what
+information is to be provided to get Aadhaar?
+
+An individual seeking enrolment to visit an Aadhar enrolment centre and submit
+a request (as specified) alongwith valid supporting documents.
+The enrolment operator shall capture the following information during the
+course of enrolment:
+https://uidai.gov.in/en/your-aadhaar
+
+6/28
+
+
+25/10/2026, 10:23
+
+Your Aadhaar - Unique Identification Authority of India | Government of India
+
+Mandatory Demographic information (Name, Date of Birth, Gender, Address)
+Optional demographic information (mobile number, email)
+Details of Mother/Father/Legal Guardian (in case of HOF based enrolment)
+And
+Biometric Information (Photo, 10 finger prints, both Iris)
+After completing the enrolment the operator shall return all the documents
+alongwith an acknowledgement slip containing the applicable charges.( New
+Enrolment is Free of charge)
+List of valid supporting documents is available at List of Supporting Document
+You can locate the nearest enrolment centre at : Bhuvan Aadhaar Portal
+Will getting Aadhaar be compulsory?
+Individuals who are eligible for Aadhaar can apply for Aadhaar as per the provisions of the
+Aadhaar Act and the Regulations framed thereunder. Similarly, agencies providing benefits
+and services may choose to use Aadhaar in their systems and may require that their
+beneficiaries or customers provide their Aadhaar for these services.
+
+What are the features and benefits of Aadhaar?
+One Aadhaar: Aadhaar is a unique number, and no Aadhaar number holder can
+have a duplicate number since it is linked to their individual biometrics; thereby
+identifying fake and ghost identities which result in leakages today. Savings from
+eliminating duplicates and fakes through Aadhaar-based identification will
+further enable governments to expand benefits to other eligible individuals.
+Portability: Aadhaar is a universal number, and agencies and services can
+contact the central Unique Identification database from anywhere in the country
+to authenticate a beneficiary's identity by availing authentication services.
+Electronic benefit transfers: The UID-enabled-Bank-Account network will offer a
+secure and low cost platform to directly remit benefits to Aadhaar number
+https://uidai.gov.in/en/your-aadhaar
+
+7/28
+
+
+25/10/2026, 10:23
+
+Your Aadhaar - Unique Identification Authority of India | Government of India
+
+holders without the heavy costs associated today with benefit distribution; the
+leakages in the current system will also be stemmed as a result.
+Aadhaar-based authentication to confirm entitlement delivered to the
+beneficiary: The UIDAI will offer online authentication services for agencies who
+wish to validate a A adhaar number holder 's identity; this service will enable
+confirmation of the entitlement actually reaching the intended beneficiary.
+Improved services through increased transparency: Clear accountability and
+transparent monitoring would significantly improve access and quality of
+entitlements to beneficiaries and the agency alike.
+Self-service puts A adhaar number holders in control : Using Aadhaar as an
+authentication mechanism, A adhaar number holder s should be able to access
+up-to-date information about their entitlements, demand services and redress
+their grievances directly from their mobile phone, kiosks or other means. In the
+case of self-service on the A adhaar number holder 's mobile, security is assured
+using two-factor authentication (i.e. by proving possession of the A adhaar
+number holder 's registered Mobile Number and knowledge of the A adhaar
+number holder 's Aadhaar PIN). These standards are compliant with the Reserve
+Bank of India's approved standards for Mobile Banking and Payments.
+What is Aadhaar?
+Aadhaar number is a 12 digit random number assigned to an individual seeking enrolment
+on completing the enrolment process. This is digital identity issued to an Aadhaar holder
+which can be authenticated through biometric or mobile OTP.
+
+Security in UIDAI system
+How does the UIDAI protect the individual and their information?
+
+https://uidai.gov.in/en/your-aadhaar
+
+8/28
+
+
+25/10/2026, 10:23
+
+Your Aadhaar - Unique Identification Authority of India | Government of India
+
+Protection of the individual, and the safeguarding their information is inherent in
+the design of the UID project. From having a random number which does not
+reveal anything about the individual to other features listed below, the UID
+project keeps the interest of the individual at the core of its purpose and
+objectives. Collecting limited information Data collected by the UIDAI is purely to
+issue Aadhaar numbers, and confirm the identity of Aadhaar number holders.
+The UIDAI is collecting basic data fields in order to be able to establish identity–
+this includes Name, Date of Birth, Gender, Address, Parent/ Guardian’s name
+essential for children but not for others, mobile number and email id is optional
+as well . The UIDAI is collecting biometric information to establish uniqueness –
+therefore collecting photo, 10 finger prints and iris.
+No profiling and tracking information collected: The UIDAI policy bars it from
+collecting sensitive personal information such as religion, caste, community,
+class, ethnicity, income and health. The profiling of individuals is therefore not
+possible through the UID system, since the data collected is limited to that
+required for identification and identity confirmation. The UIDAI had in fact,
+dropped the ‘place of birth’ data field – part of the initial list of information it
+planned to collect – based on feedback from CSOs that it could lead to profiling.
+The UIDAI also does not collect any transaction records of the individual. The
+records of an individual confirming their identity through Aadhaar will only
+reflect that such a confirmation happened. This limited information will be
+retained for a short period time in the interest of the individual, to resolve any
+disputes.
+Release of information – yes or no response: The UIDAI is barred from
+revealing personal information in the Aadhaar database – the only response
+permitted are a ‘yes’ or ‘no’ to requests to verify an identity. The only exceptions
+are the order of a court, or the order of a joint secretary, in case of national
+security. This is a reasonable exception and is clear and precise. This approach is
+also in line with security norms followed in US and Europe on access to data in
+case of a security threat.
+https://uidai.gov.in/en/your-aadhaar
+
+9/28
+
+
+25/10/2026, 10:23
+
+Your Aadhaar - Unique Identification Authority of India | Government of India
+
+Data protection and privacy: The UIDAI has the obligation to ensure the
+security and confidentiality of the data collected. The data will be collected on
+software provided by the UIDAI and encrypted to prevent leaks in transit. Trained
+and certified enrollers will collect the information, which will not have access to
+the data being collected. The UIDAI has a comprehensive security policy to
+ensure the safety and integrity of its data. It will publish more details on this,
+including the Information Security Plan and Policies for the CIDR and
+mechanisms for auditing the compliance of the UIDAI and its contracting
+agencies. In addition, there will be strict security and storage protocols in place.
+Penalties for any security violation will be severe, and include penalties for
+disclosing identity information. There will also be penal consequences for
+unauthorised access to CIDR – including hacking, and penalties for tampering
+with data in the CIDR under the Aadhaar Act, 2016.
+Convergence and linking of UIDAI information to other databases: The UID
+database is not linked to any other databases, or to information held in other
+databases. Its only purpose will be to verify a person’s identity at the point of
+receiving a service, and that too with the consent of the aadhaar number holder.
+The UID database will be guarded both physically and electronically by a few
+select individuals with high clearance. It will not be available even for many
+members of the UID staff and will be secured with the best encryption, and in a
+highly secure data vault. All access details will be properly logged.
+
+Use of Aadhaar
+Can Aadhaar be used for eKYC?
+Yes, Aadhaar can be used for eKYC (electronic Know Your Customer) to open bank accounts,
+get SIM cards, and access financial services without submitting physical documents.
+
+https://uidai.gov.in/en/your-aadhaar
+
+10/28
+
+
+25/10/2026, 10:23
+
+Your Aadhaar - Unique Identification Authority of India | Government of India
+
+What use can Aadhaar be put to?
+Aadhaar can be used to identity beneficiaries for delivery of financial and other subsidies,
+benefits and services offered by the scheme implementing agencies. Beside this, Aadhaar
+authentication is allowed in the interest of good governance preventing leakage of public
+funds, promoting ease of living of Aadhaar number holders and enabling better access to
+services for them.
+
+How is Aadhaar different from any other identity issued by the government?
+Aadhaar is a unique 12 digit random number assigned to a individual which is apart from
+offline or physical verification, verifiable online anywhere anytime using the Aadhaar
+authentication platform. This number, when authenticated successfully, would serve as proof
+of identity and could be used for identification of beneficiaries for transfer of benefits,
+subsidies, services and other purposes.
+
+Protection of Individual Information
+in UIDAI System
+What are the possible criminal penalties envisaged against the fraud or
+unauthorized access to data?
+
+Following are the criminal offences and penalties provided in the Aadhaar Act,
+2016 (as amended):
+1. Impersonation by providing false demographic or biometric information, at
+the time of enrolment, is an offence – imprisonment up to 3 years or a fine of
+upto Rs. 10,000/- or with both.
+2. Appropriating the identity of an Aadhaar number holder by changing or
+attempting to change the demographic and biometric information of an
+https://uidai.gov.in/en/your-aadhaar
+
+11/28
+
+
+25/10/2026, 10:23
+
+Your Aadhaar - Unique Identification Authority of India | Government of India
+
+Aadhaar number holder is an offence - imprisonment upto 3 years and a fine
+of upto Rs. 10,000/-.
+3. Pretending to be an agency authorized to collect Identity information of a
+individual is an offence – imprisonment up to 3 years or with a fine of upto Rs.
+10,000 for a person, or up to Rs. 1 lakh for a company, or with both.
+4. Intentionally transmitting/ disclosing information collected during enrolment/
+authentication to an unauthorized person or in contravention of any
+agreement or arrangement under this Act is an offence – imprisonment upto 3
+years or with a fine of up to Rs. 10,000/- for a person, or of up to Rs. 1 lakh for
+a company, or with both.
+5. Unauthorized access to the central identities data repository (CIDR) and
+hacking is an offence – imprisonment upto 10 years and a fine of minimum Rs.
+10 Lakhs.
+6. Tampering with data in the central identities data repository is an offence –
+imprisonment upto 10 years and a fine up to Rs. 10,000/-.
+7. Unauthorized use of identity information of an individual by an requesting
+entity or Offline Verification Seeking Entity – imprisonment up to 3 years or
+fine up to Rs.10,000/- in case of a individual, or of upto Rs.1 Lakh in case of a
+company or with both.
+8. 8. Penalty for an offence, for which no specific penalty is provided elsewhere imprisonment upto 3 years or fine up to Rs.25,000/- in case of a individual, or
+of up to Rs.1 Lakh in case of a company or with both.
+What are the Data protection and privacy measures taken by UIDAI ?
+
+The UIDAI ensures the security and confidentiality of the data collected. The
+enrolment data is collected on client application provided by the UIDAI, which is
+encrypted at source and the packet is transmitted in a secure manner. UIDAI has
+https://uidai.gov.in/en/your-aadhaar
+
+12/28
+
+
+25/10/2026, 10:23
+
+Your Aadhaar - Unique Identification Authority of India | Government of India
+
+published guidelines in this regard which is available on its website. UIDAI has
+security policy in place for data security in motion and at rest.
+Penalty for unauthorized access to Central Identities Data Repository have been
+detailed in Aadhaar (Targeted delivery of financial and other subsidies , benefits
+and services) Act, 2016 - Chapter VII under Offences and Penalties, Section 38.
+What are the privacy protections in place to protect the right to privacy of
+the individual?
+
+Protection of the individual and the safeguarding their information is inherent in
+the design of the UID project. From having a random number which does not
+reveal anything about the individual to other features listed below, the UID
+project keeps the interest of the individual at the core of its purpose and
+objectives.
+Collecting limited information
+The UIDAI is collecting only basic data fields - Name, Date of Birth, Gender,
+Address, Parent/ Guardian’s (name essential for children but not for others)
+photo, 10 finger prints and iris scan.
+No profiling and tracking information collected
+The UIDAI policy bars it from collecting sensitive personal information such
+as religion, caste, community, class, ethnicity, income and health. The
+profiling of individuals is therefore not possible through the UID system.
+Release of information – yes or no response The UIDAI will not reveal
+personal information in the Aadhaar database – the only response will be a
+‘yes’ or ‘no’ to requests to verify an identity
+Convergence and linking of UIDAI information to other databases
+
+The UID database is not linked to any other databases, or to information held
+in other databases. Its only purpose will be to verify a person’s identity at the
+point of receiving a service, and that too with the consent of the aadhaar
+number holder
+https://uidai.gov.in/en/your-aadhaar
+
+13/28
+
+
+25/10/2026, 10:23
+
+Your Aadhaar - Unique Identification Authority of India | Government of India
+
+The UID database will be guarded both physically and electronically by a few
+select individuals with high clearance. The data will be secured with the best
+encryption, and in a highly secure data vault. All access details will be
+properly logged.
+Can the Aadhaar number holder’s data be purged from Aadhaar database?
+UIDAI does not purge the data of the Aadhaar number holder from the database once
+he/she has obtained his/her Aadhaar card. The data is used for de-duplication of every new
+entrant in the database against all the existing records to determine the unique identity of
+the Aadhaar number holder.
+
+Can a individual opt out of Aadhaar?
+The individual has the option in the first instance not to enrol for Aadhaar at all. Aadhaar is a
+service delivery tool, and not designed for any other purpose. Aadhaar being unique to every
+individual is non-transferable. If the individual does not wish to use the Aadhaar, it will
+remain dormant, as the use is based on the physical presence and biometric authentication
+of the person. However, children, within 6 months of attaining majority, may make an
+application for cancellation of their Aadhaar as per the provisions of the Aadhaar Act, 2016
+(as amended) and regulations framed there under.
+
+How will the grievances of the individual be addressed?
+The UIDAI will set up a Contact Centre to manage all queries and grievances and serve as a
+single point of contact for the organization. The details of the Contact Centre will be
+published on the website as and when enrolment begins. The users of this system are
+expected to be individuals, registrars and enrolment agencies. Any individual seeking
+enrolment is given a printed acknowledgement form with an Enrolment Number, that
+enables the individual to make queries about her/his enrolment status through any
+communication channel of the contact centre. Each enrolment agency will be given a unique
+code that will also enable faster and pointed access to the Contact Centre that includes a
+technical helpdesk.
+
+https://uidai.gov.in/en/your-aadhaar
+
+14/28
+
+
+25/10/2026, 10:23
+
+Your Aadhaar - Unique Identification Authority of India | Government of India
+
+Who will have access to the UID database? How will the security of the
+database be ensured?
+
+Nobody has access to UID database except the CIDR administrators which is
+periodically reviewed by UIDAI.
+Aadhaar card holder is entitled to access their own Aadhaar card
+information.
+CIDR operations follows strict access protocols to limit access to the database
+by the administrators.
+The data stored in CIDR is encrypted and the database is secured against
+hacking and other forms of cyberattacks.
+How does the UIDAI protect the individual and their information?
+
+Protection of the individual, and the safeguarding their information is inherent in
+the design of the UID project. From having a random number which does not
+reveal anything about the individual to other features listed below, the UID
+project keeps the interest of the individual at the core of its purpose and
+objectives. Collecting limited information Data collected by the UIDAI is purely to
+issue Aadhaar numbers, and confirm the identity of Aadhaar number holders.
+The UIDAI is collecting basic data fields in order to be able to establish identity–
+this includes Name, Date of Birth, Gender, Address, Parent/ Guardian’s name
+essential for children but not for others, mobile number and email id is optional
+as well . The UIDAI is collecting biometric information to establish uniqueness –
+therefore collecting photo, 10 finger prints and iris.
+No profiling and tracking information collected: The UIDAI policy bars it from
+collecting sensitive personal information such as religion, caste, community,
+class, ethnicity, income and health. The profiling of individuals is therefore not
+possible through the UID system, since the data collected is limited to that
+required for identification and identity confirmation. The UIDAI had in fact,
+https://uidai.gov.in/en/your-aadhaar
+
+15/28
+
+
+25/10/2026, 10:23
+
+Your Aadhaar - Unique Identification Authority of India | Government of India
+
+dropped the ‘place of birth’ data field – part of the initial list of information it
+planned to collect – based on feedback from CSOs that it could lead to profiling.
+The UIDAI also does not collect any transaction records of the individual. The
+records of an individual confirming their identity through Aadhaar will only
+reflect that such a confirmation happened. This limited information will be
+retained for a short period time in the interest of the individual, to resolve any
+disputes.
+Release of information – yes or no response: The UIDAI is barred from
+revealing personal information in the Aadhaar database – the only response
+permitted are a ‘yes’ or ‘no’ to requests to verify an identity. The only exceptions
+are the order of a court, or the order of a joint secretary, in case of national
+security. This is a reasonable exception and is clear and precise. This approach is
+also in line with security norms followed in US and Europe on access to data in
+case of a security threat.
+Data protection and privacy: The UIDAI has the obligation to ensure the
+security and confidentiality of the data collected. The data will be collected on
+software provided by the UIDAI and encrypted to prevent leaks in transit. Trained
+and certified enrollers will collect the information, which will not have access to
+the data being collected. The UIDAI has a comprehensive security policy to
+ensure the safety and integrity of its data. It will publish more details on this,
+including the Information Security Plan and Policies for the CIDR and
+mechanisms for auditing the compliance of the UIDAI and its contracting
+agencies. In addition, there will be strict security and storage protocols in place.
+Penalties for any security violation will be severe, and include penalties for
+disclosing identity information. There will also be penal consequences for
+unauthorised access to CIDR – including hacking, and penalties for tampering
+with data in the CIDR under the Aadhaar Act, 2016.
+Convergence and linking of UIDAI information to other databases: The UID
+database is not linked to any other databases, or to information held in other
+databases. Its only purpose will be to verify a person’s identity at the point of
+https://uidai.gov.in/en/your-aadhaar
+
+16/28
+
+
+25/10/2026, 10:23
+
+Your Aadhaar - Unique Identification Authority of India | Government of India
+
+receiving a service, and that too with the consent of the aadhaar number holder.
+The UID database will be guarded both physically and electronically by a few
+select individuals with high clearance. It will not be available even for many
+members of the UID staff and will be secured with the best encryption, and in a
+highly secure data vault. All access details will be properly logged.
+
+Protection of the Individual in the
+UIDAI System
+Can the Aadhaar number holder’s data be purged from Aadhaar database?
+UIDAI does not purge the data of the Aadhaar number holder from the database once
+he/she has obtained his/her Aadhaar card. The data is used for de-duplication of every new
+entrant in the database against all the existing records to determine the unique identity of
+the Aadhaar number holder.
+
+Can a individual opt out of Aadhaar?
+The individual has the option in the first instance not to enrol for Aadhaar at all. Aadhaar is a
+service delivery tool, and not designed for any other purpose. Aadhaar being unique to every
+individual is non-transferable. If the individual does not wish to use the Aadhaar, it will
+remain dormant, as the use is based on the physical presence and biometric authentication
+of the person. However, children, within 6 months of attaining majority, may make an
+application for cancellation of their Aadhaar as per the provisions of the Aadhaar Act, 2016
+(as amended) and regulations framed there under.
+
+How will the grievances of the individual be addressed?
+The UIDAI will set up a Contact Centre to manage all queries and grievances and serve as a
+single point of contact for the organization. The details of the Contact Centre will be
+published on the website as and when enrolment begins. The users of this system are
+https://uidai.gov.in/en/your-aadhaar
+
+17/28
+
+
+25/10/2026, 10:23
+
+Your Aadhaar - Unique Identification Authority of India | Government of India
+
+expected to be individuals, registrars and enrolment agencies. Any individual seeking
+enrolment is given a printed acknowledgement form with an Enrolment Number, that
+enables the individual to make queries about her/his enrolment status through any
+communication channel of the contact centre. Each enrolment agency will be given a unique
+code that will also enable faster and pointed access to the Contact Centre that includes a
+technical helpdesk.
+
+Who will have access to the UID database? How will the security of the
+database be ensured?
+
+Nobody has access to UID database except the CIDR administrators which is
+periodically reviewed by UIDAI.
+Aadhaar card holder is entitled to access their own Aadhaar card
+information.
+CIDR operations follows strict access protocols to limit access to the database
+by the administrators.
+The data stored in CIDR is encrypted and the database is secured against
+hacking and other forms of cyberattacks.
+How does the UIDAI protect the individual and their information?
+
+Protection of the individual, and the safeguarding their information is inherent in
+the design of the UID project. From having a random number which does not
+reveal anything about the individual to other features listed below, the UID
+project keeps the interest of the individual at the core of its purpose and
+objectives. Collecting limited information Data collected by the UIDAI is purely to
+issue Aadhaar numbers, and confirm the identity of Aadhaar number holders.
+The UIDAI is collecting basic data fields in order to be able to establish identity–
+this includes Name, Date of Birth, Gender, Address, Parent/ Guardian’s name
+essential for children but not for others, mobile number and email id is optional
+https://uidai.gov.in/en/your-aadhaar
+
+18/28
+
+
+25/10/2026, 10:23
+
+Your Aadhaar - Unique Identification Authority of India | Government of India
+
+as well . The UIDAI is collecting biometric information to establish uniqueness –
+therefore collecting photo, 10 finger prints and iris.
+No profiling and tracking information collected: The UIDAI policy bars it from
+collecting sensitive personal information such as religion, caste, community,
+class, ethnicity, income and health. The profiling of individuals is therefore not
+possible through the UID system, since the data collected is limited to that
+required for identification and identity confirmation. The UIDAI had in fact,
+dropped the ‘place of birth’ data field – part of the initial list of information it
+planned to collect – based on feedback from CSOs that it could lead to profiling.
+The UIDAI also does not collect any transaction records of the individual. The
+records of an individual confirming their identity through Aadhaar will only
+reflect that such a confirmation happened. This limited information will be
+retained for a short period time in the interest of the individual, to resolve any
+disputes.
+Release of information – yes or no response: The UIDAI is barred from
+revealing personal information in the Aadhaar database – the only response
+permitted are a ‘yes’ or ‘no’ to requests to verify an identity. The only exceptions
+are the order of a court, or the order of a joint secretary, in case of national
+security. This is a reasonable exception and is clear and precise. This approach is
+also in line with security norms followed in US and Europe on access to data in
+case of a security threat.
+Data protection and privacy: The UIDAI has the obligation to ensure the
+security and confidentiality of the data collected. The data will be collected on
+software provided by the UIDAI and encrypted to prevent leaks in transit. Trained
+and certified enrollers will collect the information, which will not have access to
+the data being collected. The UIDAI has a comprehensive security policy to
+ensure the safety and integrity of its data. It will publish more details on this,
+including the Information Security Plan and Policies for the CIDR and
+mechanisms for auditing the compliance of the UIDAI and its contracting
+agencies. In addition, there will be strict security and storage protocols in place.
+https://uidai.gov.in/en/your-aadhaar
+
+19/28
+
+
+25/10/2026, 10:23
+
+Your Aadhaar - Unique Identification Authority of India | Government of India
+
+Penalties for any security violation will be severe, and include penalties for
+disclosing identity information. There will also be penal consequences for
+unauthorised access to CIDR – including hacking, and penalties for tampering
+with data in the CIDR under the Aadhaar Act, 2016.
+Convergence and linking of UIDAI information to other databases: The UID
+database is not linked to any other databases, or to information held in other
+databases. Its only purpose will be to verify a person’s identity at the point of
+receiving a service, and that too with the consent of the aadhaar number holder.
+The UID database will be guarded both physically and electronically by a few
+select individuals with high clearance. It will not be available even for many
+members of the UID staff and will be secured with the best encryption, and in a
+highly secure data vault. All access details will be properly logged.
+
+NRI & Aadhaar
+I am an NRI having address out-side India in my passport, can I enroll for
+Aadhaar with the same address ?
+Yes, NRIs having recorded address out-side India in their passport can enroll for Aadhaar
+with the foreign address using form number 2 or 4 or 6 as the case may be.
+
+I am an NRI enrolled for Aadhaar with address out-side India, do I receive
+Aadhaar letter at address out-side India ?
+NRI enrolled with address out-side India will receive password protected e-Aadhaar along
+with password to open the attachment to their registered email id provided at the time of
+enrolment.
+
+Can an NRI apply for Aadhaar?
+https://uidai.gov.in/en/your-aadhaar
+
+20/28
+
+
+25/10/2026, 10:23
+
+Your Aadhaar - Unique Identification Authority of India | Government of India
+
+Yes. An NRI (whether minor or adult) with a valid Indian Passport can apply for Aadhaar from
+any Aadhaar Enrolment Centre. In case of NRIs the residential condition of 182 days is not
+mandatory.
+
+Can my passport be used for Aadhaar update of my spouse?
+If your passport has the name of your spouse, then it can be used as Proof of Address for
+them.
+
+I am an NRI and I have an Aadhaar. Can my spouse be enrolled based on my
+Aadhaar & passport?
+
+NRI can act as HOF in the capacity of mother/father/legal guardian for Aadhaar
+enrolment, by submitting valid proof of relation (POR) document. List valid
+supporting documents is available at List of Supporting Document
+What is the process for Aadhaar enrolment for children of NRIs above 5
+years and below 18 years of age?
+
+An NRI child seeking enrolment to visit an Aadhar enrolment centre along with
+Mother and/or Father or Legal guardian and submit a request in requisite
+enrolment form alongwith valid supporting documents. Enrolment and Update
+form can also be downloaded from https://uidai.gov.in/enrolment-and-updates
+The enrolment operator shall capture the following informations during the
+course of enrolment:
+Mandatory Demographic information (Name, Date of Birth, Gender, Address and
+email)
+Optional demographic information (mobile number ) Details (Aadhaar number)
+of Mother and/or Father or Legal Guardian (in case of HOF based enrolment) is
+captured . Both or One of the parents/ guardian has to authenticate on behalf of
+the child and also give consent for enrolment of the minor by signing the
+enrolment form.
+And
+https://uidai.gov.in/en/your-aadhaar
+
+21/28
+
+
+25/10/2026, 10:23
+
+Your Aadhaar - Unique Identification Authority of India | Government of India
+
+Biometric Information (Photo of child)
+Type of documents presented [valid Indian passport of the child is mandatory as
+Proof of Identity (PoI)]
+Residential Status ( Resided in India for at least 182 days is not applicable for NRI)
+After completing the enrolment the operator shall return all the documents
+alongwith an acknowledgement slip containing the applicable charges (New
+Enrolment is Free of charge).
+List of valid supporting documents is available at List of Supporting Document
+You can locate the nearest enrolment centre at : Bhuvan Aadhaar Portal
+Can I give an International mobile number in my Aadhaar details?
+Yes, however messages shall not be delivered on international/ non-Indian mobile numbers.
+
+What is the procedure for NRI's to enrol for Aadhaar?
+
+The process is:
+An NRI seeking enrolment to visit an Aadhaar enrolment center and submit a
+requisite form along with valid supporting documents. Enrolment and Update
+form can also be downloaded from (Enrolment & Update Forms)
+The enrolment operator shall capture the following information during the
+course of enrolment:
+Mandatory Demographic information (Name, Date of Birth, Gender, Address and
+email)
+Optional demographic information (mobile number)
+And
+Biometric Information (Photo, 10 finger prints, both Iris)
+Type of documents presented [valid Indian passport is mandatory as Proof of
+Identity (PoI)]
+Residential Status ( Resided in India for at least 182 days is not applicable for NRI)
+After completing the enrolment the operator shall return all the documents
+along with an acknowledgement slip containing the applicable charges.
+https://uidai.gov.in/en/your-aadhaar
+
+22/28
+
+
+25/10/2026, 10:23
+
+Your Aadhaar - Unique Identification Authority of India | Government of India
+
+List of valid supporting documents is available at (List Of Supporting Documents)
+You can locate the nearest enrolment centre at : (Bhuvan Aadhaar Portal)
+The address in my passport is not updated. I want to give my present
+address for my Aadhaar application. Is that possible?
+
+Yes. A valid Indian Passport is mandatory as a Proof of Identity (PoI) for NRI
+applicants. You may choose to give any other Indian Address with a valid
+supporting Proof of Address (PoA) as per the list of documents acceptable by
+UIDAI: List of Supporting Document
+What is the process for NRI enrolment?
+
+NRI seeking enrolment need to visit an Aadhar enrolment centre and submit a
+request in requisite enrolment form alongwith valid supporting documents.
+Enrolment and Update form can also be downloaded from
+https://uidai.gov.in/enrolment-and-updates
+The enrolment operator shall capture the following informations during the
+course of enrolment:
+Mandatory Demographic information (Name, Date of Birth, Gender, Address and
+email)
+Optional demographic information (mobile number)
+And
+Biometric Information (Photo, 10 finger prints, both Iris)
+Type of documents presented [valid Indian passport is mandatory as Proof of
+Identity (PoI)]
+Residential Status ( Resided in India for at least 182 days is not applicable for NRI)
+In case the NRI requires an address other than that mentioned in passport, he
+has option to submit any valid proof of address document available to resident
+Indian.
+After completing the enrolment the operator shall return all the documents
+alongwith an achnowledgement slip containing the applicable charges.
+https://uidai.gov.in/en/your-aadhaar
+
+23/28
+
+
+25/10/2026, 10:23
+
+Your Aadhaar - Unique Identification Authority of India | Government of India
+
+List of valid supporting documents is available at List of Supporting Document
+You can locate the nearest enrolment centre at : Bhuvan Aadhaar Portal
+
+PAN & Aadhaar
+I do not have any Date of Birth proof. How do I update the DoB in Aadhaar?
+At the time of enrolment, an individual seeking enrolment has option to record DOB In
+Aadhaar as 'declared' or 'approximate' if no valid proof of birth is available. However to
+update DOB in Aadhaar, the Aadhaar number holder to submit a valid proof of birth
+document.
+
+My date of birth in PAN and Aadhaar do not match. Not able to link them.
+Pls help?
+You will have to correct your date of birth, either with Aadhaar or with PAN to link both. Incase linking problem still persists, we request you to please get in touch with Income Tax
+department.
+
+My name is different in PAN and Aadhaar. It is not allowing me to link both.
+What to do?
+
+In order to Link Aadhaar with PAN, ideally your demographic details (i.e. Name,
+Gender and Date of Birth) should match in both the documents.
+In case of any minor mismatch in Aadhaar Name provided by taxpayer when
+compared to the actual data in Aadhaar, One Time Password (Aadhaar OTP) will
+be sent to the mobile registered with Aadhaar. Taxpayers should ensure that the
+date of birth and gender in PAN and Aadhaar are exactly same.
+In a rare case where Aadhaar name is completely different from name in PAN,
+then the linking will fail and taxpayer will be prompted to change the name in
+either Aadhaar or in PAN database.
+https://uidai.gov.in/en/your-aadhaar
+
+24/28
+
+
+25/10/2026, 10:23
+
+Your Aadhaar - Unique Identification Authority of India | Government of India
+
+Note: For PAN data update related queries you may visit: https://www.utiitsl.com.
+For Aadhaar update related information you may visit UIDAI official website:
+www.uidai.gov.in
+In-case linking problem still persists you are requested to visit Income Tax official
+website or call IT department helpline.
+
+myAadhaar Portal
+How can I update myAadhaar details?
+Aadhaar details like address can be updated online via the UIDAI Self-Service Update Portal
+(SSUP) or by visiting an Aadhaar Seva Kendra with valid documents.
+
+What is myAadhaar portal ?
+
+myAadhaar portal is a login based portal containing an array of Aadhaar related
+services. An Aadhaar Number holder may visit myAadhaar by clicking on
+https://myaadhaar.uidai.gov.in/
+How to login myAadhaar portal ?
+
+An Aadhaar Number holder can login myAadhaar portal using Aadhaar number
+Content
+Information
+and OTP
+received
+on registered mobile number.
+Published on: 29 Apr 2026 Last Updated: 15 Oct 2026 Owner: HO
+Can I use myAadhaar portal without registered mobile number ?
+Few services like QR code scan, Book an Appointment, Order Aadhaar PVC card,
+Check Enrolment status, Locate Enrolment Center, File a complaint etc. can be
+accessed without registered mobile number on myAadhaar portal.
+What is the benefit of myAadhaar portal?
+https://uidai.gov.in/en/your-aadhaar
+
+25/28
+
+

@@ -1,0 +1,232 @@
+FORM 2: Aadhaar Enrolment and Update
+For Non-Resident Indian having Proof of Address outside India (aged 18 years and above)
+Please follow the instructions given below this form and use only upper case (block or capital) letters.
+1 Purpose:
+Enrolment
+OR
+Update
+2 Demographic information (For update, please fill only the information to be updated):
+(a) Name:
+(Please fill as given in the document presented in support of the POI, while omitting any titles, honorifics and aliases)
+
+(b) Gender:
+Female
+(c) Date of Birth:
+OR
+(DDMMYYYY) OR Age:
+years
+Male
+Verified OR
+Declared OR
+Approximate (only for age)
+Third gender / Transgender (For declared or approximate, only year of declared/approximate birth will be printed on Aadhaar card)
+(d) Email (mandatory):
+(e) Mobile number:
+3 Basis of enrolment/update:
+Document verification OR
+Confirmation by Head of Family (HoF)
+4 For document-based enrolment/update, additional demographic information and documents presented:
+(Address information should be filled only in case of enrolment or update of address)
+
+(a) Address (as given in valid Indian passport):
+
+(b) Type of documents presented:
+
+(i) Proof of Identity (POI): Valid Indian Passport
+(ii) Proof of Address (POA): Valid Indian passport
+(iii) Proof of Date of Birth (PDB) (optional):
+5 For HoF-based enrolment or update of address, additional information and documents presented:
+(a) Details of HoF: (i) Name:
+Aadhaar no.:
+(See “List of acceptable supporting
+documents” displayed on the website of
+UIDAI and enrolment centres)
+
+(ii) Relationship with applicant:
+Mother
+Father
+Legal guardian
+Other relationship (only for address update):
+Spouse
+Child/ward
+(b) Type of Proof of Relationship (POR) document presented:
+
+Sibling
+
+(See “List of acceptable supporting documents” displayed on the website of UIDAI and enrolment centres)
+
+I confirm the identity of the applicant named above and that she/he is related to me as mentioned. I hereby consent that the
+address recorded against my Aadhaar number may be recorded as the address against the Aadhaar number of the applicant.
+Signature of HoF:
+6 For update, additional information:
+(a) Aadhaar number of applicant:
+(b) Information to be updated:
+Biometric (photo, fingerprints and irises)
+Name
+Date of Birth
+Gender
+Address
+Mobile
+Email
+Update of POI and POA documents
+Declaration
+1. I hereby confirm and declare that—
+(a) all the information and documents submitted is correct to the best of my knowledge and belief;
+(b) I am entitled to the documents/information evidencing proofs cited above; and
+(c) I am a Non-Resident Indian (valid Indian passport holding citizen who is not resident of India).
+2. I understand that if the above declaration is found to be incorrect, my Aadhaar number may be deactivated and, in addition,
+action may be taken against me as per law.
+3. I understand that the above information may be used, disclosed or shared in accordance with the Aadhaar (Targeted Delivery
+of Financial and Other Subsidies, Benefits and Services) Act, 2016 and regulations made thereunder.
+4. I hereby give my consent for electronically obtaining information evidencing proof of identity, address, birth and/or
+relationship from the databases of the authorities dealing with the preparation or maintenance of such information and for
+sharing the above information and documents with government agencies and/or any such authority, for the purpose of
+verification.
+Signature of verifier:
+Signature / thumb impression of applicant*:
+Name of verifier:
+
+Date and time:
+
+* In case applicant is a person with disability, in respect of whom a lawful guardian is appointed and such guardianship extends
+to providing of the consent sought, such guardian shall present document in support of the same and sign the application.
+Note: This form may be used on and from the date on which the Authority gives public notice of the same through its website.
+
+
+Instructions for filling Form 2
+S.
+Item
+Instruction
+No.
+1 Purpose
+Please tick (✔) only one, as applicable.
+2 Demographic information:
+(1) Please fill details as applicable.
+(a) Name
+(2) Please omit courtesy title (Mr, Ms, Mrs, Shri, Smt., Kumari, Thiru, Thirumati etc.), honorific (Dr,
+Prof., Sir, Justice, defence service rank, ecclesiastical title, etc.), profession/qualification/service
+(Dr, Er., CA, Adv., IAS, IPS, IFS etc.) and alias (urf, a.k.a. etc.), even if figuring in the document.
+(b) Date of Birth (DOB) (1) Please fill details of DOB or age, as applicable.
+(2) Tick (✔) only one, as applicable, among “Verified”, “Declared” or “Approximate”.
+or Age
+(3) “Verified” should be ticked if Proof of Date of Birth (PDB) is available and being presented.
+(4) If PDB is not available, the applicant may give either declared date of birth (DOB) or
+approximate age, in which case only the year of birth will be printed on Aadhaar card.
+(c) Gender
+Please tick (✔) only one, as applicable.
+Please fill details as applicable.
+(d) Email
+(e) Mobile number
+
+(1) Please fill details as applicable.
+(2) In case of a non-Indian mobile number, no SMS / text message will be sent to the same.
+Please tick (✔) only one, as applicable.
+
+Mandatory or
+optional
+Mandatory
+Mandatory
+
+Mandatory
+
+Mandatory
+Mandatory
+Optional
+
+Basis of
+enrolment/update
+For document-based enrolment/update, additional demographic information and documents presented:
+
+Mandatory
+
+(a) Address
+
+Mandatory
+
+(b)
+
+(1) Details filled should be identical with those given in the valid Indian passport.
+(2) Aadhaar letter will be despatched through India Post to the address as filled.
+Type of documents (1) The document type should be from among those specified in the “List of acceptable supporting
+documents”, displayed on the website of UIDAI and enrolment centres.
+presented
+(2) Original documents must be presented. The same shall be returned after making an electronic
+copy and verifying the same against the originals.
+(3) Valid Indian passport is the only acceptable POI and POA.
+For HoF-based enrolment or update of address, additional information and documents presented:
+(1) Please fill details as applicable in (i).
+Details of HoF
+(2) Please tick (✔) only one, as applicable, in (ii).
+(3) For HoF-based enrolment, HoF must be 18 years or more in age and be the mother, father or
+legal guardian of the applicant.
+(4) For HoF-based update of address, HoF must be 18 years or more in age and be the applicant’s
+mother, father, legal guardian, spouse, child/ward or sibling.
+(1) The document type should be from among those specified in the “List of acceptable supporting
+Type of Proof of
+documents”, displayed on the website of UIDAI and enrolment centres.
+Relationship (POR)
+document presented (2) Original documents must be presented. The same shall be returned after making an electronic
+copy and verifying the same against the originals.
+For update, additional information:
+Aadhaar number of Please fill details as applicable.
+applicant
+Information to be
+Please tick (✔) one or more as applicable.
+updated
+
+Mandatory
+
+3
+4
+
+5
+(a)
+
+(b)
+
+6
+(a)
+(b)
+
+Mandatory
+
+Mandatory
+
+Mandatory
+Mandatory
+
+Fee for Enrolment and Update Services at Enrolment Centre
+S. no.
+Service
+1
+Enrolment
+2
+Update of biometric information (photo,
+fingerprints and irises)
+
+Fee
+Free
+(a) If done once between the ages of 5 and 7 years: Free
+(b) If done once between the ages of 15 and 17 years: Free
+(c) If done otherwise: ₹ 125
+(*If done between the age of 7 to 15 years: Free, till 30.9.2027)
+
+3
+
+(a) If done at the same time as update of biometric information: Free (Only charges
+for Biometric update applicable)
+(b) If done separately, for all or any demographic information: ₹ 75
+
+4
+
+Update of demographic information (name,
+gender, date of birth, address, mobile number or
+email address)
+
+₹ 75
+Update of POI and POA document (evidencing
+proof of identity and address)
+Note: For despatching of Aadhaar letter to the foreign address of the applicant, such charges shall be payable as the Authority may specify from time to time
+and display on its website.
+
+

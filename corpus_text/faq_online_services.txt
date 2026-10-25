@@ -1,0 +1,607 @@
+22/10/2026, 12:34
+
+Aadhaar Online Services - Unique Identification Authority of India | Government of India
+
+From where an Aadhaar number holder can download e-Aadhaar?
+
+Aadhaar Number holder can download e-Aadhaar by visiting UIDAI's myAadhaar
+portal - https://myaadhaar.uidai.gov.in/genricDownloadAadhaar/en or by using
+Aadhaar app for mobile phones.
+How can an Aadhaar Number holder download e-Aadhaar?
+
+An Aadhaar number holder can download e-Aadhaar through following ways:
+By Using Enrolment Number
+By Using Aadhaar No
+By using VID
+By using SID
+
+Order Aadhaar PVC Card
+Document Update
+
+Frequently Asked
+Questions
+How to download the Aadhaar
+app?
+
+What is Masked Aadhaar?
+
+In Masked Aadhaar, first 8 digits of Aadhaar number are masked and only last 4
+digits of the Aadhaar number are visible. Facility of Masked Aadhaar is available
+only in e-Aadhaar.
+What Is the Password of e-Aadhaar?
+
+Password of eAadhaar is a combination of the first 4 letters of name in CAPITAL
+and the year of birth (YYYY).
+For Example:
+
+How to register on the Aadhaar
+app?
+
+Which services are available on
+this app?
+View more F.A.Qs
+
+Example 1
+Name: SURESH KUMAR
+Year of Birth: 1990
+Password: SURE1990
+Example 2
+Name: SAI KUMAR
+https://www.uidai.gov.in/en/aadhaar-online-services
+
+2/19
+
+
+22/10/2026, 12:34
+
+Aadhaar Online Services - Unique Identification Authority of India | Government of India
+
+Year of Birth: 1990
+Password: SAIK1990
+Example 3
+Name: P. KUMAR
+Year of Birth: 1990
+Password: P.KU1990
+Example 4
+Name: RIA
+Year of Birth: 1990
+Password: RIA1990
+What supporting software needed to view e-Aadhaar?
+
+Resident needs latest version of 'Adobe Reader' to view e-Aadhaar.
+How to validate digital signatures in e-Aadhaar?
+
+To successfully validate the digital signature on e-Aadhaar UIDAI recommends to
+download and open the e-Aadhaar in the latest version of Adobe Acrobat Reader
+on Microsoft Windows/MacOS .
+Is downloaded eAadhaar equally valid as other forms of Aadhaar?
+
+Yes, e-Aadhaar is equally valid as other forms of Aadhaar. For validity of
+eAadhaar, please refer UIDAI circular- F.No. 140 l4 l8l20ll -Logistics Vol.ll Dated
+28th April, 2017. It can be accessed through
+https://uidai.gov.in/images/Circular_dated_28_April_2017.pdf
+Can I download Aadhaar online after it is generated?
+Yes, once your Aadhaar is generated, eAadhaar can be downloaded online.
+https://www.uidai.gov.in/en/aadhaar-online-services
+
+3/19
+
+
+22/10/2026, 12:34
+
+Aadhaar Online Services - Unique Identification Authority of India | Government of India
+
+Can I get my Aadhaar Letter downloaded online after updation?
+
+Yes, once your Aadhaar is updated successfully, eAadhaar can be downloaded
+online.
+
+Online Address Update Process
+How can I update my demographic details in Aadhaar?
+
+You can update your demographic details in Aadhaar
+1. By enrolling through nearest enrolment centre. You can search the nearest
+enrolment centre by clicking https://bhuvan.nrsc.gov.in/aadhaar/
+2. Using Online services for address update and document update available at
+https://myaadhaar.uidai.gov.in/
+Is it necessary that my mobile number should be registered with Aadhaar
+while requesting for any kind of update through online?
+Yes, mobile number should be registered to Aadhaar for using online services.
+
+Where can I update my mobile number?
+
+You can update your mobile number by visiting any Aadhaar Enrolment centre.
+Aadhaar Enrolment centre can be located by visiting at Bhuvan portal:
+https://bhuvan-app3.nrsc.gov.in/aadhaar/
+Can I update my address in my local language through online portal?
+
+You have to enter the details in English, which shall be transliterated into your
+selected regional language. You can update for any correction in transliteration if
+https://www.uidai.gov.in/en/aadhaar-online-services
+
+4/19
+
+
+22/10/2026, 12:34
+
+Aadhaar Online Services - Unique Identification Authority of India | Government of India
+
+required. The following regional languages are available for update of address
+through online.
+Bengali, Gujarati, Hindi, Kannada, Malayalam, Marathi, Odia, Punjabi, Tamil,
+Telugu and Urdu.
+I successfully submitted my address update request. How can I track this?
+
+On successful submission of an online address update request, a SRN (Service
+Request Number) is generated, which is shown on screen and also sent via SMS
+to your registered mobile number. After successful submission of the request,
+please download the invoice containing the SRN number and other details. The
+status of the update request can be checked at the bottom of the page by login
+in to Check Aadhaar Update Status
+My online address update request got rejected for invalid documents. What
+does this mean?
+
+Aadhaar update requests to be supported by valid/proof of address (POA)
+document. A request can be rejected for invalid document in following scenarios:
+1. The Proof of Address(POA) document should be a Valid document, as per
+document list available at List of Supporting Document
+2. Document is in the name of the Aadhaar holder for whom update request is
+submitted.
+3. Address details entered should match the address with the address
+mentioned in the document.
+4. Image uploaded should be clear and colored scan of original document.
+
+https://www.uidai.gov.in/en/aadhaar-online-services
+
+5/19
+
+
+22/10/2026, 12:34
+
+Aadhaar Online Services - Unique Identification Authority of India | Government of India
+
+Secure QR Code Reader (beta)
+What is Aadhaar QR Code? What information does QR Code contain?
+
+Aadhaar QR code is Quick Response code digitally signed by UIDAI and used for
+offline verification of identity. It is present on all forms of Aadhaar like e-Aadhaar,
+Aadhaar letter, Aadhaar PVC card and Aadhaar App. It contains last 4 digits of
+Aadhaar number, name, address, gender, date of birth and photograph of the
+Aadhaar number holder. It also contains masked mobile number and email-id of
+the Aadhaar number holder.
+What are the benefits of Aadhaar QR code?
+Aadhaar QR code can be used for verification of identity in offline mode. 'Aadhaar QR Code
+Scanner' app for smartphones and Windows based QR code scanning application works in
+Offline mode and does not require internet for scanning purpose.
+
+How can someone read Aadhaar QR code?
+
+Aadhaar QR code can ONLY be read using:
+1. Aadhaar app available on Google Play Store and app store
+2. Aadhaar QR Scanner app available on Google Play Store and app store
+3. Windows based application available on UIDAI official website https://uidai.gov.in/qr-code-reader
+How Windows QR code Scanner Application will work?
+Post installation of UIDAI’s QR code reader application, QR code of e-Aadhaar need to be
+scanned using the physical scanner in line with UIDAI Specifications. The application will
+display the demographic details of Aadhaar number holder once the QR Code is digitally
+verified using Windows QR code scanner.
+
+Who all can use secure QR code?
+https://www.uidai.gov.in/en/aadhaar-online-services
+
+6/19
+
+
+22/10/2026, 12:34
+
+Aadhaar Online Services - Unique Identification Authority of India | Government of India
+
+Any Aadhaar Holder or any User/Service Agencies like Banks, AUAs, KUAs, Hotels etc can use
+this facility for offline verification of the data in Aadhaar.
+
+Aadhaar Paperless Offline e-kyc
+What is Aadhaar Paperless Offline e-KYC?
+
+It is a secure sharable document which can be used by any Aadhaar number
+holder for offline verification of Identification.
+An Aadhaar number holder desirous of using this facility shall generate his/her
+digitally signed Offline XML by accessing UIDAI website. The Offline XML will
+contain Name, Address, Photo, Gender, DOB, hash of registered Mobile Number,
+hash of registered Email Address and reference id which contains last 4 digits of
+Aadhaar Number followed by time stamp. It will provide Offline Aadhaar
+Verification facility to service providers/Offline Verification Seeking Entity (OVSE)
+without the need to collect or store Aadhaar number.
+How to generate Offline Aadhaar XML?
+
+The process of generating Aadhaar Offline e-KYC is explained below:
+• Go to URL https://myaadhaar.uidai.gov.in/offline-ekyc
+• Enter ‘Aadhaar Number’ or ‘VID’ and enter mentioned ‘Security Code’ in screen,
+then click on ‘Send OTP’. The OTP will be sent to the registered Mobile Number
+for the given Aadhaar number or VID. OTP will be available on Aadhaar mobile
+Application of UIDAI. Enter the OTP received. Enter a Share Code which be the
+password for the ZIP file and click on ‘Download’ button
+• The Zip file containing the digitally signed XML will be downloaded to device
+wherein the above mentioned steps have been performed. The Offline Aadhaar
+XML can also be downloaded from Aadhaar app. In next step, after successful
+validation, i.Select the required details which you want to download by clicking
+https://www.uidai.gov.in/en/aadhaar-online-services
+
+7/19
+
+
+22/10/2026, 12:34
+
+Aadhaar Online Services - Unique Identification Authority of India | Government of India
+
+the radio button. ii.Enter the desired ‘Share Code’ for the ZIP file in the provided
+field with required parameters as indicated in screen iii.Enter the ‘Security Code’
+and press ‘Submit’ button The Zip file containing the digitally signed XML will be
+downloaded to device wherein the above mentioned steps have been performed.
+Extract the zip file using the password as specified in previous step and save the
+XML file in the desired location
+Who are the users of this Aadhaar Paperless Offline e-KYC?
+Any Aadhaar number holder who desires to establish his/her identity to any service provider
+(OVSE) using digitally signed XML downloaded from UIDAI website can be a user of this
+service. The service provider should have provisions of providing this Aadhaar Paperless
+Offline e-KYC at their facility and do the offline verification
+
+How to share this Paperless Offline eKYC document with the service
+provider?
+Aadhaar number holders can share the XML ZIP file along with the Share Code to the service
+provider as per their mutual convenience.
+
+How will service providers use Aadhaar Offline e-KYC?
+
+The process of Aadhaar Offline e-KYC Verification by Service Provider is:
+Once service provider obtains the ZIP file, it extracts the XML file using the
+password (share code) provided by the Aadhaar number holder.
+The XML file will contain the demographic details such as Name, DOB,
+Gender and Address. Photo is in base 64 encoded format which can be
+rendered directly using any utility or plane HTML page. Email Address and
+Mobile number are hashed.
+Service Provider has to collect Email Address and Mobile number from
+Aadhaar number holders and perform below operations in order to validate
+the hash:
+https://www.uidai.gov.in/en/aadhaar-online-services
+
+8/19
+
+
+22/10/2026, 12:34
+
+Aadhaar Online Services - Unique Identification Authority of India | Government of India
+
+Mobile Number:
+Hashing logic: Sha256(Sha256(Mobile+ShareCode))*number of times of last
+digit of Aadhaar Number
+Example : Mobile number: 9800000002
+Aadhaar Number: 123412341234
+Share Code: Abc@123
+Sha256(Sha256(9800000002+ Abc@123))*4
+In case if Aadhaar Number ends with Zero or 1 (123412341230/1) it will be
+hashed one time.
+Sha256(Sha256(9800000002+ Abc@123))*1
+Email Address:
+Hashing Logic: This is a simple SHA256 hash of the email without any salt
+
+Entire XML is digitally signed and Service Provider can validate the XML file
+using the signature and public key available on the UIDAI website.
+(https://uidai.gov.in/images/uidai_offline_publickey_26022019.cer).
+Can this Offline Paperless eKYC document be shared to other entities by the
+Service Provider?
+Service Providers shall not share, publish or display either XML or Share Code or its contents
+with anyone else. Any non-compliance of these actions shall invite actions under Sections
+29(2), 29 (3), 29(4) and 37 of The Aadhaar Act, 2016 (as amended) and sub regulation 1A of
+regulation 25, regulation 14A of The Aadhaar (Authentication and Offline Verification)
+Regulation, 2021 and regulation 6 and 7 of The Aadhaar (Sharing of Information) Regulation,
+2016.
+
+How this Aadhaar Offline Paperless eKYC document is different from the
+other identification documents produced offline by individuals?
+Identity verification can simply be accomplished by providing an identity document like PAN
+card, Passport etc to the service provider. However, all these documents, which may be used
+https://www.uidai.gov.in/en/aadhaar-online-services
+
+9/19
+
+
+22/10/2026, 12:34
+
+Aadhaar Online Services - Unique Identification Authority of India | Government of India
+
+for identification can still be forged and faked which may or may not be possible to verify
+offline instantaneously. The document verifier has no technological means to verify the
+authenticity of the document or the information it contains and has to trust the document
+producer. Whereas, the XML file generated by the Aadhaar number holder using Aadhaar
+Paperless Offline e-KYC is digitally signed document using UIDAI digital signature. Thus, the
+service provider can verify the demographic contents of the file and certify it to be authentic
+when doing the offline verification
+
+Where can I find the Public Certificate for Digital Signature validation?
+Public certificate for Digital signature validation can be downloaded from here .
+
+Biometric Lock/Unlock
+What is Biometric Locking?
+Biometric Locking/Unlocking is a service that allows an Aadhaar holder to lock and
+temporarily unlock their biometrics. This facility aims to strengthen privacy and
+confidentiality of Aadhaar number holder's Biometrics Data.
+
+What all Biometric data can be locked?
+Fingerprint, iris and Face as a biometric moadlity will be locked and after biometric locking,
+Aadhaar holder will not be able to perform the Aadhaar authentication using the above
+mentioned biometric modalities.
+
+What happens when Biometric is locked?
+Locked Biometrics confirms that Aadhaar holder will not be able to use Biometrics
+(fingerprints/iris/Face) for authentication, it is a safety feature to stop any kind of biometric
+authentication. It also ensures that any entity by any means cannot perform biometric based
+Aadhaar authentication for that Aadhaar holder.
+
+https://www.uidai.gov.in/en/aadhaar-online-services
+
+10/19
+
+
+22/10/2026, 12:34
+
+Aadhaar Online Services - Unique Identification Authority of India | Government of India
+
+How to Unlock (locked)Biometrics?
+
+Once Aadhaar number holder enables Biometric Locking system their biometric
+remains locked till the Aadhaar Holder chose any below mentioned option:
+Unlock it (which is temporary )or Disable the Locking system The biometric
+unlock can be done by Aadhaar number holder either by visiting UIDAI website,
+enrolment centre, Aadhaar Seva Kendra(ASK), through Aadhaar app. Note:
+Registered Mobile Number is essential to avail this service. In case your mobile
+number is not registered with Aadhaar visit the nearest Enrolment Centre/Mobile
+Update End Point.
+Who and when to lock Biometrics?
+Aadhaar number holders who have registered mobile number may lock their biometrics.
+This facility aims to strengthen privacy and confidentiality of Aadhaar number holder 's
+Biometrics Data After locking biometrics if a UID is used for invoking any of the
+Authentication services using a biometric modality (Fingerprint/Iris/Face) a specific error
+code '330' indicating biometrics are locked will be displayed and the entity will not be able to
+perform the biometric authentication.
+
+Aadhaar SMS Service
+Do I need to generate OTP for all Aadhaar SMS services?
+OTP Auhtentication is must for Aadhaar Lock/unlock and Biometric Lock/unlock Function.
+You don’t need OTP for VID Generation & Retrieval function. To get OTP send SMS -> GETOTP
+LAST 4 or 8 DIGITs of Aadhaar Number Example - GETOTP 1234.
+
+How to Lock/Unlock Aadhaar Number with SMS service?
+For Locking Aadhaar Number: Send OTP request as -> GETOTP LAST 4 or 8 DIGITs of Aadhaar
+Number Then send Locking Request as -> LOCKUID Last 4 or 8 DIGIT of Aadhaar Number 6
+https://www.uidai.gov.in/en/aadhaar-online-services
+
+11/19
+
+
+22/10/2026, 12:34
+
+Aadhaar Online Services - Unique Identification Authority of India | Government of India
+
+DIGIT OTP You will get a confirmation message for your request. Once it is locked you will
+not be able to perform any form of Authentication (Biometric, Demographic or OTP) using
+your Aadhaar Number. However, you can still use your latest Virtual ID for performing
+Authentication. For Un-Locking Aadhaar Number you must have your latest Virtual ID. Send
+OTP request with last 6 or 10 DIGITs of Virtual ID number as -> GETOTP LAST 6 or 10 DIGITs
+Virtual ID Then send Unlocking Request as -> UNLOCKUID LAST 6 or 10 DIGIT Virtual ID 6
+DIGIT OTP
+
+My SMS is not being sent. What should I do?
+Please check if your SMS service is working properly. In case of any issue with respect to the
+SMS not being sent, kindly contact your telecom service provider. It may be a case of bad
+network or non-functioning SMS service or low Balance etc
+
+Order Aadhaar PVC Card
+Is the Aadhaar PVC Card different from the Aadhaar letter?
+No, the Aadhaar PVC Card is just a compact and more durable version. It holds the same
+validity as the e-Aadhaar and paper Aadhaar letter.
+
+What is Aadhaar PVC Card?
+
+The Aadhaar PVC Card is a durable, credit-card-sized version of Aadhaar with
+enhanced security features. It can be ordered online for ₹75 through the UIDAI
+website.
+Can I reorder Aadhaar PVC Card?
+
+Yes, you can reorder Aadhaar PVC card multiple times.
+
+https://www.uidai.gov.in/en/aadhaar-online-services
+
+12/19
+
+
+22/10/2026, 12:34
+
+Aadhaar Online Services - Unique Identification Authority of India | Government of India
+
+How many days will it take to receive "Aadhaar PVC Card" after placing the
+order successfully?
+
+On receipt of successful request from the Aadhaar Number Holder, Aadhaar PVC
+card is delivered normally within 10 working days (excluding day of raising
+request) through Speed post services of India Post at the address registered with
+UIDAI. Consignment Number/AWB is sent to the registered mobile number of
+ANH and same can be tracked on https://www.indiapost.gov.in.
+What are the different forms of Aadhaar?
+
+The different forms of Aadhaar are Aadhaar Letter, Aadhaar PVC card, eAadhaar
+which are equally valid and acceptable.
+Can I choose to have and use any form of Aadhaar?
+Yes.
+
+What is “Order Aadhaar PVC Card” service?
+
+“Order Aadhaar PVC Card” is an online service which facilitates the Aadhaar
+holder to get their Aadhaar details printed on PVC Card by paying nominal
+charges of Rs. 75/-.
+What are the security features of “Aadhaar PVC Card”?
+
+Aadhaar PVC Card contains security features like:
+Tamper proof QR Code
+Micro text
+Ghost image
+Issue Date & Print Date
+Guilloche Pattern
+Embossed Aadhaar Logo
+https://www.uidai.gov.in/en/aadhaar-online-services
+
+13/19
+
+
+22/10/2026, 12:34
+
+Aadhaar Online Services - Unique Identification Authority of India | Government of India
+
+What are the charges to be paid for “Aadhaar PVC Card”?
+
+Charges to be paid for Aadhaar PVC Card are Rs.75/- (Inclusive of GST & speed
+post charges).
+How one can raise the request for “Aadhaar PVC Card”?
+
+The facility can be availed by visiting myAadhaar portal at the following link:
+https://myaadhaar.uidai.gov.in.
+Aadhaar Number Holder (ANH) with registered mobile number can login by
+entering 12-digit Aadhaar Number (UID) and order Aadhaar PVC Card by
+following the instructions provided on screen and paying applicable charges.
+ANH whose mobile number is registered with Aadhaar can order Aadhaar PVC
+Cards for Self or Others.
+After successful payment, receipt will get generated containing SRN and
+transanction details. SRN is also shared via SMS.
+Which modes are available to make the payment?
+
+Presently, following online payment modes are available for making payment:Credit Card
+Debit Card
+Net Banking
+UPI
+Wallet
+UPIPPI
+UPICLI
+What is SRN?
+
+SRN is 14 digits Service Request Number which is generated while raising request
+for Aadhaar PVC Card.
+https://www.uidai.gov.in/en/aadhaar-online-services
+
+14/19
+
+
+22/10/2026, 12:34
+
+Aadhaar Online Services - Unique Identification Authority of India | Government of India
+
+What is AWB number?
+
+Airway Bill Number(AWB) is the tracking number generated by Department of
+Posts to track the delivery of Aadhaar PVC Card through India Post website.
+What if Aadhaar Number holder wants to get the Aadhaar PVC Card printed
+with the details different from existing details on Aadhaar?
+
+If residents want some changes in the details to be printed on Aadhaar PVC Card,
+they first need to update their details in Aadhaar by visiting Enrolment Center or
+online (depending upon type of update) and then raise the request for Aadhaar
+PVC Card after successful completion of update request.
+
+Document Update
+Is there any mandate that after a certain period of time, a person needs to
+update their Aadhaar picture? (Or update the personal details)
+UIDAI suggest the Aadhaar number holder to update his or her document or information
+regarding proof of identity (POI) , proof of address (POA) at least once in 10 years from date
+of generation of Aadhaar number.
+
+Why should I update documents in my Aadhaar?
+You may update the documents in your Aadhaar database for better service delivery and
+accurate Aadhaar based authentication. Therefore, updating recent identity and address
+documents is in the interest of the Aadhaar number holder.
+
+What documents can I submit to update document in Aadhaar?
+To update document, you have to submit your Proof of Identity (POI) and Proof of Address
+(POA). Some common documents accepted as both POI and POA: Ration card Voter identity
+card Bhamashah, Domicile Certificate, Resident Certificate, Jan-Aadhaar, MGNREGA/ NREGS
+https://www.uidai.gov.in/en/aadhaar-online-services
+
+15/19
+
+
+22/10/2026, 12:34
+
+Aadhaar Online Services - Unique Identification Authority of India | Government of India
+
+Job Card, Labour Card etc. Indian passport Passbook with photograph issued by Public
+Sector Bank along with certificate by branch manager/incharge Some common documents
+accepted as POI only: School leaving certificate / school transfer certificate with photograph
+Marksheet/certificate issued by recognised Board of Education or University with
+photograph PAN/e-PAN card CGHS Card Driving license Some common documents accepted
+as POA only: Electricity, water, gas or telephone/mobile/broadband bill (not more than three
+months old) Duly signed and stamped Scheduled Commercial Bank / Post Office passbook
+with photograph Duly signed and stamped Scheduled Commercial Bank / Post Office
+account/credit-card statement (not more than three months old) Valid rent, lease or leave &
+licence agreement Certificate issued in UIDAI Standard Certificate format by designated
+officers Property tax receipt (not more than one year old) Detailed list of supporting
+documents is available at - List of Supporting Document
+
+How can I submit the documents online?
+
+Please visit myAadhaar Portal , and log in using your Aadhaar number and onetime password (OTP) received on your registered mobile number. List of
+supporting documents is available at - List of Supporting Document
+If the address displayed in my profile does not match with my current
+address, what should I do?
+You can update your address online through myAadhaar portal or by visiting any Aadhaar
+Enrolment Centre by enrolling with valid POA document.
+
+If any demographic detail (name, gender or date of birth) does not match
+my actual identity details, what should I do?
+You can update any demographic details in Aadhaar by visiting any Aadhaar Enrolment
+centre
+
+If I want to submit documents through Aadhaar enrolment centre, how can
+I locate an Aadhaar centre?
+https://www.uidai.gov.in/en/aadhaar-online-services
+
+16/19
+
+
+22/10/2026, 12:34
+
+Aadhaar Online Services - Unique Identification Authority of India | Government of India
+
+Please go to Bhuvan Aadhaar Portal For locating nearby Aadhaar centres, click on the
+‘Centres Nearby’ tab. Enter your location details to view nearby Aadhaar centres. For locating
+the Aadhaar centres within your PIN code area, click on the ‘Search by PIN Code’ tab. Enter
+your area PIN code to view Aadhaar centres in that area.
+
+What is the charge for submitting the documents?
+For submission of documents at an Aadhaar centre, the applicable charge is Rs. 50.
+Submission of documents may also be done through myAadhaar portal .
+
+By when should I submit the documents?
+Aadhaar number holders are suggested to update documents in Aadhaar at least once in 10
+years. Once you receive any communication in this regard, it is suggested to update the
+documents at an early date.
+
+I am a non-resident Indian (NRI). How can I submit the documents?
+You can submit the documents whenever you are in India, through online or by visiting
+AadhaarContent
+Centre. Information
+
+Published
+on: 30the
+Aprdocuments?
+2026 Last Updated: 16 Oct 2026
+How
+can I submit
+
+Owner: HO
+
+The documents can be submitted online through myAadhaar Portal or at any
+Aadhaar Enrolment Centre. For a tutorial video in this regard, please click here
+https://www.youtube.com/watch?v=1jne0KzFcF8
+
+https://www.uidai.gov.in/en/aadhaar-online-services
+
+17/19
+
+

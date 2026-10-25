@@ -1,0 +1,264 @@
+25/10/2026, 10:26
+
+Have any Question? - Unique Identification Authority of India | Government of India - Unique Identification Authority of India | Government of India
+
+How to download the Aadhaar
+app?
+
+How to register on the
+Aadhaar app?
+
+Which services are available on
+this app?
+View more F.A.Qs
+
+What details are required for onboarding on the Aadhaar app?
+The ANH should have a smartphone (Android version 9.0 and above and iOS version 16.0 and
+above) with internet connectivity.
+
+How to register on the Aadhaar app?
+After downloading the app, the Aadhaar Number Holder (ANH): →Select Language→ Enters
+their Aadhaar number → Agrees to the Terms and Conditions and Privacy Policy → Chooses
+the SIM card → Performs Face Authentication → Gets registered on the app → Sets a 6-digit
+PIN to secure access to the app.
+
+Which services are available on this app?
+Presently, the Aadhaar app offers various services like - Mobile Number Update, Address
+Update, Biometric lock/unlock, Selective Sharing of Aadhaar Verifiable Credential, check
+Authentication History, download e-Aadhaar, share Contact Card, Track my request, etc.
+https://uidai.gov.in/en/aadhaar-app-faq
+
+2/11
+
+
+25/10/2026, 10:26
+
+Have any Question? - Unique Identification Authority of India | Government of India - Unique Identification Authority of India | Government of India
+
+Who is an Aadhaar Number Holder (ANH)?
+ANH is an individual who has been assigned a 12-digit Aadhaar number by UIDAI.
+
+Is this app available in other official languages?
+Yes, the Aadhaar app is available in 13 languages in total, English and 12 other Indian
+languages, including Hindi, Bengali, Tamil, Telugu, Kannada, Malayalam, Gujarati, Odia,
+Punjabi, Marathi, Urdu, and Assamese.
+
+How to update a mobile number through the Aadhaar app?
+
+Scenario 1: If the Aadhaar Number Holder is registered on the Aadhaar app using
+the same mobile number that is registered with Aadhaar, ANH will be required to
+verify the new mobile number with OTP, perform Face Authentication, and pay the
+prescribed charges
+Scenario 2: If the Aadhaar Number Holder is registered on the Aadhaar app using
+a different mobile number from the one registered with Aadhaar, ANH will be
+required to verify both the old registered mobile number and the new mobile
+number with OTP, perform Face Authentication, and pay the prescribed charges
+Scenario 3: If the Aadhaar Number Holder does not have access to the old
+registered mobile number or has not registered a mobile number earlier, ANH
+must visit the nearest Aadhaar Seva Kendra or an authorised Aadhaar enrolment
+and update centre to update or register their mobile number.
+Can a mobile number be registered in Aadhaar for the very first time using
+this app?
+No, the user needs to visit the nearest Aadhaar Seva Kendra or Aadhaar enrolment and
+update centre for first time registering mobile number.
+
+How to update address using own documents?
+
+https://uidai.gov.in/en/aadhaar-app-faq
+
+3/11
+
+
+25/10/2026, 10:26
+
+Have any Question? - Unique Identification Authority of India | Government of India - Unique Identification Authority of India | Government of India
+
+Scenario 1: If the Aadhaar Number Holder is registered on the Aadhaar app using
+the same mobile number: To update your address in Aadhaar using documents:
+Open the Aadhaar App, login with your 6-digit PIN, go to Services → Address
+Update → upload your document (JPG/PNG/PDF), fill in the new address, verify
+the preview in English and local language, then complete Face Authentication and
+pay ₹75. Download the acknowledgement slip with your SRN number to track
+your request.
+Scenario 2: If the Aadhaar Number Holder is registered on the Aadhaar app using
+a different mobile number from the one registered with Aadhaar:
+Open the Aadhaar App, login with your 6-digit PIN, go to Services → Address
+Update → verify with OTP→ upload your document (JPG/PNG/PDF), fill in the new
+address, verify the preview in English and local language, then complete Face
+Authentication and pay ₹75. Download the acknowledgement slip with your SRN
+number to track your request.
+How to update address using Family Member’s Aadhaar ?
+
+Scenario 1: If the Aadhaar Number Holder is registered on the Aadhaar app using
+the same mobile number: To update your address using HoF (Head of Family)
+method: Open Aadhaar App, login with 6-digit PIN, go to Services → Address
+Update → enter the family member's Aadhaar number, select your relation,
+complete Face Authentication and pay ₹75. The request goes to your family
+member (HoF), who must approve it from their Aadhaar App via Services →
+Family Member Request → enter SRN → Approve.
+Scenario 2: If the Aadhaar Number Holder is registered on the Aadhaar app using
+a different mobile number from the one registered with Aadhaar:
+To update your address using HoF (Head of Family) method: Open Aadhaar App,
+login with 6-digit PIN, go to Services → Address Update → Verify with OTP→ enter
+the family member's Aadhaar number, select your relation, complete Face
+Authentication and pay ₹75. The request goes to your family member (HoF), who
+https://uidai.gov.in/en/aadhaar-app-faq
+
+4/11
+
+
+25/10/2026, 10:26
+
+Have any Question? - Unique Identification Authority of India | Government of India - Unique Identification Authority of India | Government of India
+
+must approve it from their Aadhaar App via Services → Family Member Request
+→ enter SRN → Approve.
+Can I update my Aadhaar details using the app?
+Yes, currently you can update only your mobile number and address directly through the app,
+without visiting an Aadhaar Seva Kendra.
+
+How to share contact card through Aadhaar app?
+Open Aadhaar App, login with your 6-digit PIN, then go to Services → Share Contact and
+show the QR code to the receiver. The receiver can scan it with any mobile camera to instantly
+save your name and mobile number in their contacts.
+
+Can Name, Gender, Email, and DoB be updated through the Aadhaar app?
+Currently, these updates are not available through the Aadhaar app. For these updates, ANH
+may visit the nearest Aadhaar Seva Kendra or Aadhaar update and enrolment centre. In the
+future, these services may be made available in the Aadhaar App in phased manner.
+
+Can Photo, Fingerprints, and Iris details be updated through the Aadhaar
+app?
+No, the biometric details (Photo, Fingerprints, and Iris) can only be updated by visiting an
+Aadhaar Seva Kendra or the Aadhaar enrolment and update centre.
+
+Can this app be used at places where physical copies of Aadhaar are
+currently requested?
+Yes. The Aadhaar app is an official application developed and managed by UIDAI. The app
+allows an Aadhaar Number Holder (ANH) to securely share their Aadhaar data with an Offline
+Verification Seeking Entity (OVSE), as per their consent and choice.
+
+Can we lock/unlock Biometrics with this app?
+https://uidai.gov.in/en/aadhaar-app-faq
+
+5/11
+
+
+25/10/2026, 10:26
+
+Have any Question? - Unique Identification Authority of India | Government of India - Unique Identification Authority of India | Government of India
+
+Yes. The Aadhaar app provides a one-click biometric lock/unlock facility, which helps keep
+Aadhaar data safe and secure.
+
+Can a user create multiple profiles on the Aadhaar app?
+Yes, any individual with a valid Aadhaar number can create up to five profiles on the Aadhaar
+app.
+
+How to add the profile of a minor in the app?
+A minor (below 18 years of age) can be added to the Aadhaar app if their relationship with the
+guardian was established through biometric authentication at the time of Aadhaar
+enrolment. The minor enters their Aadhaar number, after which the guardian completes face
+authentication. Once the guardian’s face authentication is successful, the minor’s profile is
+added to the app. If the Mandatory Biometric Update (MBU) of the minor has already been
+completed, the minor will perform face authentication instead of the guardian.
+
+Can this app be used outside India?
+No, the Aadhaar app cannot be used outside India.
+
+Why does the app need different permissions, such as camera, SMS, and call ?
+Call and SMS permissions are required for SIM-based device binding, similar to payment
+apps. These permissions help identify the active SIM and securely send or read verification
+SMS. Camera permission is required for face authentication and verification to access
+Aadhaar services.
+
+What is an Aadhaar Verifiable Credential in the context of the Aadhaar App?
+An Aadhaar Verifiable Credential is a digitally signed document issued by the
+Authority to the Aadhaar Number Holder. It may contain the last 4 digits of the
+Aadhaar number, demographic data such as name, address, gender, date of birth,
+and photograph of the Aadhaar Number Holder, and such other information as may be
+specified by the Authority. These credentials may be shared by the Aadhaar Number Holder,
+https://uidai.gov.in/en/aadhaar-app-faq
+
+6/11
+
+
+25/10/2026, 10:26
+
+Have any Question? - Unique Identification Authority of India | Government of India - Unique Identification Authority of India | Government of India
+
+in full or in part, with an OVSE in the manner specified by the Authority, for verifying the
+demographic information or the photograph of the Aadhaar Number Holder.
+
+Can I share my Aadhaar Verifiable Credentials (demographic details) through
+this app?
+Yes. An Aadhaar Number Holder (ANH) can share Aadhaar Verifiable Credentials in full or in
+part. The shared credentials may include a combination of demographic details, including the
+photograph, based on the user’s consent.
+
+Can the Aadhaar App be used to access and share the user’s current location?
+No, the Aadhaar app does not capture the location.
+
+How does the app give me control over my data?
+The app places control over data sharing directly in the hands of the Aadhaar Number Holder.
+The ANH can choose to share Aadhaar data either full or in part, with whom, and for what
+purpose.
+
+Which features of the Aadhaar app enable secure and private use of data?
+The app includes face authentication-based onboarding, consent-based selective data
+sharing, and biometric lock features that protect identity and ensure that only Aadhaar
+Number Holders (ANH) can access their Aadhaar information.
+
+Who should use the Aadhaar App?
+Any Aadhaar Number Holder who seeks a secure, convenient, and privacy-centric way to
+verify identity, share Aadhaar information, and manage personal identity data can use the
+Aadhaar App.
+
+Can the Aadhaar app be used when the developer option is enabled?
+No. The Aadhaar app cannot be used when developer mode is enabled. This restriction is
+implemented to ensure data security and user protection.
+https://uidai.gov.in/en/aadhaar-app-faq
+
+7/11
+
+
+25/10/2026, 10:26
+
+Have any Question? - Unique Identification Authority of India | Government of India - Unique Identification Authority of India | Government of India
+
+How can the Aadhaar Verifiable Credential file be read?
+Aadhaar Verifiable Credentials are machine-readable files that can be shared via WhatsApp or
+email. They can be read using UIDAI-issued tools and prescribed technical standards.
+
+How is consent management handled in the Aadhaar app?
+Consent management in the Aadhaar app is governed by the Aadhaar Act and other
+applicable laws. No identity data is shared without the explicit consent of the Aadhaar
+Number Holder.
+
+If data is updated by an Aadhaar Number Holder(ANH), how soon is it
+reflected in the Aadhaar App?
+The processing time for mobile number and/or address updates is up to 30 days. Once the
+update is successfully completed, the revised data is reflected in the Aadhaar app.
+
+Will secure QR codes on PVC Aadhaar cards and e-Aadhaar continue to work,
+or will they be phased out?
+QR codes on PVC Aadhaar cards and e-Aadhaar will continue to work and can be scanned
+easily using the Aadhaar App or Aadhaar QR Code scanner for identity verification.
+
+Technically, what standard does the Aadhaar QR follow, and can any app read
+it?
+The QR-based verifiable presentation follows a UIDAI specification and OPENID4VP, but the
+reading capability is limited to the Aadhaar App, Aadhaar QR Code scanner only.
+
+Content Information
+Does an entity need a specific SDK from UIDAI to generate QR codes, or is
+Published on: 03 Jun 2026 Last Updated: 18 Sep 2026 Owner: AU
+there a different approach?
+No SDK is required. The OVSE must follow the QR generation guidelines issued by UIDAI. A
+registered OVSE may contact UIDAI for any technical support related to QR generation.
+
+https://uidai.gov.in/en/aadhaar-app-faq
+
+8/11
+
+

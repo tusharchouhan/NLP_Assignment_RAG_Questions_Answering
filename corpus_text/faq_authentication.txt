@@ -1,0 +1,1069 @@
+22/10/2026, 12:35
+
+Authentication - Unique Identification Authority of India | Government of India
+
+Face recognition is 1:N Match (one-to-many). UIDAI does 1:1 match (match against the
+stored biometric of the Aadhaar number holder).
+
+What is Face Authentication?
+1. UIDAI uses face authentication as a process by which an Aadhaar number holder's identity
+can be verified. A successful face authentication confirms that your physical face which is
+being scanned for verification matches the one which was captured at the time of enrolment
+when your Aadhaar number was generated. A successful face authentication confirms that
+you are who you claim to be. 2. Face authentication is based on a 1:1 matching which means
+that the facial image captured during authentication is matched with your facial image which
+is stored in the Repository against your Aadhaar Number, which was captured at the time of
+enrolment. 3. Face authentication is consent based.
+
+When do I need to authenticate?
+Various government schemes and private service providers such as PDS, NREGA, banks and
+telecom operators have adopted Aadhaar authentication for verification of their
+beneficiaries/customers. The authentication is generally done either at the time of delivery
+of benefits or subscribing to the service.
+
+What are the benefits of Aadhaar authentication?
+Aadhaar authentication provides an instant mechanism to prove your identity through online
+authentication. Therefore one need not carry any other ID proof except Aadhaar number.
+
+Hardware Security Module (HSM)
+
+Frequently Asked
+Questions
+How to download the Aadhaar
+app?
+
+How to register on the Aadhaar
+app?
+
+Which services are available on
+this app?
+View more F.A.Qs
+
+Is there a mechanism to notify the Aadhaar number holders when an
+authentication occurs against their Aadhaar number?
+UIDAI notifies the authentication on the registered email of the Aadhaar number holder.
+Every time UIDAI receives a biometric or OTP based authentication request against an
+Aadhaar number, a notification is sent to the registered email address.
+
+I received an authentication notification even though I did not authenticate
+myself. Whom do I approach?
+https://www.uidai.gov.in/en/authentication
+
+2/30
+
+
+22/10/2026, 12:35
+
+Authentication - Unique Identification Authority of India | Government of India
+
+UIDAI contact information, call centre number and e-mail Id are provided in the UIDAI’s
+notification email. You may contact UIDAI with the authentication details provided in the
+notification e-mail.
+
+Do I need to authenticate with only my thumbs?
+Aadhaar authentication can be achieved with any of the ten fingers. In addition Aadhaar
+authentication can be done by IRIS and Face too.
+
+What if my authentication request gets rejected even though I provide my
+fingerprints with my Aadhaar number?
+If fingerprint authentication fails, Aadhaar number holders can Retry with correct placement
+and pressure of finger on fingerprint scanner Retry with different fingers Cleaning the
+fingerprint scanner Cleaning the fingers If biometric authentication fails repeatedly over a
+period of time, Aadhaar number holder may approach an Aadhaar update center and get
+their biometrics updated with UIDAI.
+
+Will I be denied my entitlements (ration, NREGA job etc.) if my
+authentication request is rejected?
+UIDAI and the service providers availing Aadhaar authentication recognize the fact that
+Aadhaar authentication is subject to certain technological and biometric limitations such as
+poor fingerprint quality, network availability etc. Therefore the service providers will have
+alternate processes to identify/ authenticate their beneficiaries/ customers, including
+exception handling mechanism at their point of presence, so that Aadhaar number holders
+are not denied entitlements due to technological or biometric limitations.
+
+How will I authenticate if my fingerprints are worn out / I have no fingers?
+Authentication user agencies are advised to deploy alternate authentication mechanisms
+such as Face authentication, Iris authentication, OTP authentication to handle such issues.
+Additionally, service provider may have other methods of verification of their beneficiaries.
+
+How do I request for OTP?
+https://www.uidai.gov.in/en/authentication
+
+3/30
+
+
+22/10/2026, 12:35
+
+Authentication - Unique Identification Authority of India | Government of India
+
+OTP can be requested through Authentication user agency (AUA)’ application requiring OTP
+authentication on mobile number registered with UIDAI.
+
+Which devices can be used for face authentication?
+A Smartphone/Tablet can be used for face authentication which meets the specifications as
+laid down in UIDAI Face RD API (subject to change time to time)
+
+Can face authentication be used in self-assisted mode?
+Yes, depending on the purpose as mentioned by the AUA/SUBAUA, face Authentication can
+be used in self-assisted mode.
+
+Who can use Face Authentication?
+Face authentication has been introduced by UIDAI as an additional mode of authentication.
+Anyone who has a valid Aadhaar can authenticate using this mode of authentication.
+
+How UIDAI’s Face Authentication is beneficial for us?
+Face authentication is a touch less mode of authentication, which is a best alternative
+towards providing a solution to worn out/ damaged finger minutiae.
+
+How do I enable face authentication for my Aadhaar?
+This is always on enabled mode by default since individual gives the biometric including face
+at the time of capture.
+
+What are the benefits of using face authentication?
+Face authentication is a contactless method of authentication, which makes it more
+convenient than fingerprint or iris scanning.
+
+Can any mobile be used for face authentication or does UIDAI prescribes any
+specification w.r.t the use of mobile ?
+https://www.uidai.gov.in/en/authentication
+
+4/30
+
+
+22/10/2026, 12:35
+
+Authentication - Unique Identification Authority of India | Government of India
+
+Face authentication can be performed with any android mobile having the following
+specifications
+
+How to download Face authentication application?
+To use face authentication one must download two applications, one of the entity and other
+of Aadhaar Face RD UIDAI. To download Aadhaar Face RD, go to Google Play Store and look
+for the "Aadhaar Face RD (Early Access) Application" from UIDAI (presently v0.7.43) Link to
+download https://play.google.com/store/apps/details?id=in.gov.uidai.facerd
+
+What are the steps for successful face capture?
+i. Position yourself: Stand facing the camera or device, ensuring your entire face is clearly
+visible within the designated frame. Maintain a neutral expression with your eyes open and
+mouth closed and Stay still during the capture process to avoid blurry images. ii. Focus and
+capture: The device or app will automatically attempt to focus on your face. Stay still and
+avoid sudden movements until the image is captured and follow specific instructions for
+capture, like blinking once or moving your head slightly. Look directly at the camera and
+maintain a neutral expression for successful capture. iii. Lighting conditions: Stand in a welllit environment with minimal shadows on your face and for successful capture good
+background with proper lighting conditions must be ensured. iv. Remove any hats, glasses,
+or other coverings that might obscure your facial features.
+
+What are the Steps for successful face authentication if failure occurrence is
+recitative?
+UIDAI errors are displayed with an error code assigned for the causes leading to failure, one
+may contact to concerned entity with the error code to resolve.
+
+Aadhaar Lock/Unlock
+What is Aadhaar (UID) Lock & Unlock?
+https://www.uidai.gov.in/en/authentication
+
+5/30
+
+
+22/10/2026, 12:35
+
+Authentication - Unique Identification Authority of India | Government of India
+
+For an Aadhaar number holder, security and privacy of personal data is always a
+primary concern. To strengthen the security of his/her Aadhaar number and to
+provide control to the Aadhaar number holder, UIDAI provide a mechanism of
+locking and unlocking Aadhaar number (UID).
+Aadhaar number holder can lock his or her Aadhaar (UID) via UIDAI website
+(www.myaadhaar.uidai.gov.in).
+By doing this Aadhaar number holder cannot perform any sort of Authentication
+using UID, UID Token & VID for Biometrics, Demographic & OTP modality
+If Aadhaar number holder wants to unlock UID he/she can do so by using latest
+VID, through UIDAI website.
+After unlocking Aadhaar (UID), Aadhaar number holder can perform
+authentication using UID, UID Token & VID.
+How can Aadhaar number holder Lock UID?
+
+For Locking UID, Aadhaar number holder should have 16 digit VID number and
+it's a pre-requisite for locking. If Aadhaar number holder don't have VID can
+generate via SMS Service or UIDAI website ( www.myaadhaar.uidai.gov.in ). SMS
+Service. GVID space last 4 or 8 digit of UID. SMS to 1947. Ex- GVID 1234. Aadhaar
+number holder may visit UIDAI website ( https://resident.uidai.gov.in/aadhaarlockunlock ), Under My Aadhaar tab, Click on Aadhaar Lock & Unlock services.
+Select UID Lock Radio Button and enter UID Number, Full Name, and Pin Code as
+in latest details and enter Security code. Click on Send OTP or select TOTP and
+click on submit. Your UID will be locked successfully.
+How can Aadhaar number holder Unlock UID?
+
+For Unlocking UID Aadhaar number holder should have latest 16 digit VID and if
+Aadhaar number holder forgot 16-digit VID, he can retrieve latest VID through
+SMS services
+RVID Space last 4 or 8 digit of UID. SMS to 1947. Ex- RVID 1234
+https://www.uidai.gov.in/en/authentication
+
+6/30
+
+
+22/10/2026, 12:35
+
+Authentication - Unique Identification Authority of India | Government of India
+
+To unlock UID, Aadhaar number holder may visit https://myaadhaar.uidai.gov.in/,
+select Unlock radio button, Enter Latest VID and security Code and click on send
+OTP and click on Submit. Your UID will be unlocked successfully.
+Aadhaar number holder may also use Aadhaar lock or unlock service through
+Aadhaar app.
+Why should I lock my Aadhaar?
+
+Locking Aadhaar adds an extra layer of security. Once locked, Aadhaar-based
+authentication using UID, VID or UID Token cannot be performed until it is
+unlocked by the Aadhaar number holder.
+When should I consider locking my Aadhaar?
+
+Aadhaar number holders who do not frequently use Aadhaar-based
+authentication or who wish to enhance the security of their Aadhaar may choose
+to lock their Aadhaar.
+Can I lock my Aadhaar permanently?
+
+Aadhaar remains locked until the Aadhaar Holder chooses to unlock it using the
+latest VID. There is no automatic expiry of the lock.
+Will locking Aadhaar affect my Aadhaar number or demographic details?
+
+No. Locking Aadhaar does not affect the Aadhaar number or any demographic
+information such as name, address, date of birth, or mobile number.
+Can I still download my e-Aadhaar when my Aadhaar is locked?
+
+Yes. If the Aadhaar number holder had already logged into the Aadhaar App
+prior to locking Aadhaar, he/she can still download e-Aadhaar through the app.
+Locking Aadhaar only restricts Aadhaar-based authentication. Aadhaar number
+https://www.uidai.gov.in/en/authentication
+
+7/30
+
+
+22/10/2026, 12:35
+
+Authentication - Unique Identification Authority of India | Government of India
+
+holders can continue to access Aadhaar services that do not require Aadhaar
+authentication.
+Can I use Aadhaar App if my Aadhaar is locked?
+
+No, if Aadhaar is locked, Aadhaar service cannot be accessed as Aadhaar app can
+be logged-in through Aadhaar Authentication.
+What happens if someone tries to authenticate using my Aadhaar when it is
+locked?
+
+Authentication requests using the locked Aadhaar (UID), UID Token, or VID will
+not be successful until the Aadhaar is unlocked.
+Do I need a registered mobile number to lock or unlock my Aadhaar?
+
+Yes. A mobile number registered with Aadhaar is required to receive OTPs and
+access the Aadhaar Lock/Unlock service.
+What should I do if I forget my VID while my Aadhaar is locked?
+
+You can retrieve the latest VID using UIDAI's online services, Aadhaar application,
+or SMS service from your registered mobile number.
+Is there any fee for locking or unlocking Aadhaar?
+
+No. The Aadhaar Lock/Unlock service is provided free of cost by UIDAI.
+Can I lock and unlock my Aadhaar multiple times?
+
+Yes. Aadhaar number holders can lock and unlock their Aadhaar as many times
+as required.
+
+https://www.uidai.gov.in/en/authentication
+
+8/30
+
+
+22/10/2026, 12:35
+
+Authentication - Unique Identification Authority of India | Government of India
+
+Will locking Aadhaar affect my ability to receive government benefits or
+subsidies?
+
+Aadhaar lock only restricts Aadhaar authentication. If Aadhaar authentication is
+required for availing a service, the Aadhaar number holder may need to unlock
+Aadhaar before proceeding
+Can I unlock my Aadhaar temporarily for a single authentication?
+
+Aadhaar remains unlocked until the Aadhaar Holder chooses to lock it again.
+Aadhaar Holder may again lock his/her Aadhaar after completing the required
+authentication.
+How will I know whether my Aadhaar is currently locked or unlocked?
+
+Aadhaar number holders can check the status of their Aadhaar through the
+Aadhaar Lock/Unlock service available on the myAadhaar portal or Aadhaar app.
+Can I lock my Aadhaar if I have not generated a VID?
+
+No. A valid 16-digit VID is required before Aadhaar can be locked.
+Is Aadhaar lock different from Biometric Lock?
+
+Yes. Aadhaar Lock restricts all Aadhaar-based authentication using UID, UID
+Token, and VID. Biometric Lock specifically blocks the use of biometric
+authentication (fingerprint iris and face authentication) while allowing other
+authentication modes as applicable.
+What is Biometric Locking?
+Biometric Locking/Unlocking is a service that allows an Aadhaar holder to lock and
+temporarily unlock their biometrics. This facility aims to strengthen privacy and
+confidentiality of Aadhaar number holder's Biometrics Data.
+https://www.uidai.gov.in/en/authentication
+
+9/30
+
+
+22/10/2026, 12:35
+
+Authentication - Unique Identification Authority of India | Government of India
+
+What all Biometric data can be locked?
+Fingerprint, iris and Face as a biometric moadlity will be locked and after biometric locking,
+Aadhaar holder will not be able to perform the Aadhaar authentication using the above
+mentioned biometric modalities.
+
+What happens when Biometric is locked?
+Locked Biometrics confirms that Aadhaar holder will not be able to use Biometrics
+(fingerprints/iris/Face) for authentication, it is a safety feature to stop any kind of biometric
+authentication. It also ensures that any entity by any means cannot perform biometric based
+Aadhaar authentication for that Aadhaar holder.
+
+How to Unlock (locked)Biometrics?
+
+Once Aadhaar number holder enables Biometric Locking system their biometric
+remains locked till the Aadhaar Holder chose any below mentioned option:
+Unlock it (which is temporary )or Disable the Locking system The biometric
+unlock can be done by Aadhaar number holder either by visiting UIDAI website,
+enrolment centre, Aadhaar Seva Kendra(ASK), through Aadhaar app. Note:
+Registered Mobile Number is essential to avail this service. In case your mobile
+number is not registered with Aadhaar visit the nearest Enrolment Centre/Mobile
+Update End Point.
+Who can lock Biometrics?
+
+Aadhaar number holders who have registered mobile number may lock their
+biometrics.
+When to lock Biometrics?
+
+1. When you suspect misuse or see suspicious Aadhaar authentication attempts.
+2. When you do not currently need biometric authentication (for example, not
+using AePS, bank fingerprint, or other biometric‑based services).
+https://www.uidai.gov.in/en/authentication
+
+10/30
+
+
+22/10/2026, 12:35
+
+Authentication - Unique Identification Authority of India | Government of India
+
+3. As a preventive safety measure to minimise the risk of biometric‑based fraud
+while you continue using OTP or demographic authentication.
+What kind of error is displayed when biometrics are locked during Aadhaar
+authentication?
+
+When biometrics are locked during Aadhaar authentication, the system typically
+shows an Authentication failed message with Error Code 330, which means
+Biometrics locked by Aadhaar holder.
+Can biometric locking be done without a registered mobile number?
+
+No, a registered mobile number is mandatory to avail the Biometric
+Locking/Unlocking service. OTP-based authentication is required to enable or
+disable this feature. Aadhaar holders without a registered mobile number must
+first update it through an Aadhaar Enrolment/Update Centre or Aadhaar Seva
+Kendra.
+How long does the temporary biometric unlock remain active?
+
+The temporary unlock of biometrics is valid for a limited duration (generally 15
+minutes) or for a single authentication transaction, after which the biometrics are
+automatically locked again. This ensures continued security of biometric data.
+What should an Aadhaar holder do if biometric misuse is suspected?
+
+In case of suspected misuse of biometric data, the Aadhaar holder should
+immediately lock their biometrics using available channels such as the UIDAI
+website or Aadhaar application. Additionally, they may review authentication
+history and report the concern to the Unique Identification Authority of India for
+further assistance.
+Will biometric locking impact Aadhaar-based services like eKYC?
+https://www.uidai.gov.in/en/authentication
+
+11/30
+
+
+22/10/2026, 12:35
+
+Authentication - Unique Identification Authority of India | Government of India
+
+Yes, biometric locking will impact services that rely on biometric authentication
+such as biometric-based eKYC. However, Aadhaar holders can still use OTP-based
+eKYC or temporarily unlock their biometrics to complete such services.
+Can biometric locking be enabled or disabled multiple times?
+
+Yes, Aadhaar holders can enable or disable the biometric locking facility multiple
+times as per their requirement. This flexibility allows users to manage their
+biometric security conveniently through services provided by the Unique
+Identification Authority of India.
+Does biometric locking affect OTP-based authentication?
+
+No, biometric locking does not impact OTP-based authentication. Aadhaar
+holders can continue to use OTP authentication services even when their
+biometrics (fingerprint/iris/face) are locked.
+
+Virtual ID (VID)
+What is Virtual ID (VID)?
+VID is a temporary, revocable 16-digit random number mapped with the Aadhaar number.
+VID can be used in lieu of Aadhaar number whenever authentication or e-KYC services are
+performed. Authentication may be performed using VID in a manner similar to using
+Aadhaar number. It is not possible to derive Aadhaar number from VID.
+
+How does an Aadhaar number holder obtain VID?
+
+VID can be generated only by the Aadhaar number holder. They can also replace
+(generate a new VID) their VID from time to time. At any given time only one VID
+will be valid for an Aadhaar number. UIDAI provide various options to Aadhaar
+https://www.uidai.gov.in/en/authentication
+
+12/30
+
+
+22/10/2026, 12:35
+
+Authentication - Unique Identification Authority of India | Government of India
+
+number holders to generate their VID, retrieve their VID in case they forget, and
+replace their VID with a new number. These options will be made available via
+UIDAI’s website ( www.myaadhaar.uidai.gov.in ), eAadhaar download, Aadhaar
+mobile application, etc.
+VID can also be generated by sending an SMS to the Aadhaar helpline number
+1947. Aadhaar number holder will have to type “GVIDLast 4 digits of Aadhaar
+Number” and send it to 1947 through the registered Mobile Number.
+Can anyone else generate VID for me?
+No other entity like AUA/KUA can generate VID on behalf of Aadhaar number holder. The VID
+can be generated by Aadhaar number holder by himself/herself only. Aadhaar number
+holder will receive the VID through SMS on registered mobile number.
+
+What if an Aadhaar number holder forgets VID? Can he/she obtain again?
+
+Yes, UIDAI provide multiple ways to generate new and/or retrieve current VID.
+These options are made available via UIDAI’s website (
+www.myaadhaar.uidai.gov.in ), eAadhaar, Aadhaar mobile application, SMS, etc.
+For retrieval of VID, Aadhaar number holder may send SMS to the Aadhaar
+helpline number 1947. Aadhaar number holder will have to type “RVID Last 4
+digits of Aadhaar Number” and send it to 1947 through the registered Mobile
+Number.
+Can VID be used for OTP or biometrics or demographics authentication?
+Yes. VID can be used in lieu of Aadhaar number to perform Aadhaar Authentication.
+
+In case of VID, do I need to provide consent for authentication?
+Yes, Aadhaar number holder consent is necessary for VID based authentication. Agency is
+required to inform the Aadhaar number holder the purpose for authentication and collect
+explicit consent for performing authentication.
+https://www.uidai.gov.in/en/authentication
+
+13/30
+
+
+22/10/2026, 12:35
+
+Authentication - Unique Identification Authority of India | Government of India
+
+Can an agency store VID?
+No. Since VID is temporary and can be changed by the Aadhaar number holder, storing VID
+has no value. Agencies should not store VID in any database or logs.
+
+Will re-generation of VID lead to the same VID or a different VID?
+
+After the minimum validity period (currently set as 1 calender day or after
+midnight 12), Aadhaar number holder may requests regeneration of a new VID.
+In this way, new VID will be generated and the previous VID will be deactivated.
+In case, if Aadhaar number holder opts for retrieval of VID, the last active VID will
+be sent to the Aadhaar number holder through SMS. Aadhaar number holder will
+have to type “RVIDLast 4 digits of Aadhaar Number” and send it to 1947 through
+the registered Mobile Number.
+What is the expiry period of VID?
+At this time there is no expiry period defined for VID. VID will be valid till the time a new VID
+is generated by the Aadhaar number holder.
+
+Authentication History
+What is Aadhaar Authentication history?
+
+Aadhaar Authentication History is the record of your Aadhaar number used for
+authentication, such as biometric, OTP, or demographic verification.
+Where can an Aadhaar number holder check his/her Aadhaar
+Authentication history?
+
+An Aadhaar number holder can check Aadhaar Authentication History at:
+1. UIDAI website: https://myaadhaar.uidai.gov.in/
+https://www.uidai.gov.in/en/authentication
+
+14/30
+
+
+22/10/2026, 12:35
+
+Authentication - Unique Identification Authority of India | Government of India
+
+2. Aadhaar mobile app
+What is the procedure for checking Aadhaar Authentication history on
+UIDAI websites?
+
+An Aadhaar number holder can check his/her Aadhaar Authentication history on
+the UIDAI website at https://myaadhaar.uidai.gov.in/ or through the Aadhaar app
+by entering his/her Aadhaar number/VID, providing the security code, and
+following the instructions given on the portal.
+Note: Registered mobile number is mandatory to use this service.
+What Information Aadhaar number holder can get from Aadhaar
+Authentication history?
+
+Aadhaar number holder can get the following information in Aadhaar
+Authentication history against every Authentication done by Aadhaar number
+holder.
+1. Auth Modality.
+2. Date & Time of Authentication.
+3. UIDAI Response code.
+4. AUA Name
+5. AUA Transaction ID (With Code)
+6. Authentication Response (Success/Failure)
+7. UIDAI Error code"
+This facility allows me to view maximum 50 authentication records. How can
+I check more records?
+
+Aadhaar number holder can view details of all authentication records performed
+by any Authentication User Agency (AUA) or by the holder themselves within the
+https://www.uidai.gov.in/en/authentication
+
+15/30
+
+
+22/10/2026, 12:35
+
+Authentication - Unique Identification Authority of India | Government of India
+
+last 6 months. However, a maximum of 50 records can be viewed at a time. To
+check additional records, the Aadhaar number holder may select a narrower date
+range in the calendar, and the corresponding authentication records will then be
+displayed.
+Some of authentication transactions records are showing as failed, what
+should I do?
+
+For every failed authentication transaction record, specific error code is assigned.
+Please check the details of error code number against that failed authentication
+transaction to know the reason of failure.
+If I have not performed some of the transactions listed in the records, what
+should I do?
+
+If the listed authentication transaction is not performed by the Aadhaar number
+holder, Aadhaar number holder may contact the respective Authentication User
+Agency (AUA) for further details.
+What is UIDAI Response Code in the authentication records?
+
+UIDAI Response Code is a unique code that UIDAI generates for every Aadhaar
+authentication transaction. It helps the service provider (AUA) and UIDAI to
+identify that specific transaction and can be used for any follow‑up enquiry by the
+Aadhaar number holder.
+What is AUA Transaction ID in the authentication records?
+
+For every authentication transaction performed by an Aadhaar number holder,
+AUA generates a unique Transaction ID to identify the transaction and sends the
+same to UIDAI as part of the authentication request. This Transaction ID along
+with Response Code can be used for any further enquiry from AUA by the
+Aadhaar number holder.
+https://www.uidai.gov.in/en/authentication
+
+16/30
+
+
+22/10/2026, 12:35
+
+Authentication - Unique Identification Authority of India | Government of India
+
+What is Auth Modality?
+
+UIDAI provides authentication facility with different modes such as demographic,
+biometric (fingerprint, Iris or face) or One Time Password (OTP). Auth Modality
+shows the mode of authentication used to perform that specific authentication
+transaction.
+What are Error Codes?
+
+An Error Code provide the details/reason for the failure of authentication
+transaction. For Error Codes details, Aadhaar number holder may refer to
+Aadhaar Authentication API document published on UIDAI website.
+Below are Error Code List “100” – Personal information demographic data did not match.
+“200” – Personal address demographic data did not match.
+“300” – Biometric data did not match.
+“310” – Duplicate fingers used.
+“311” – Duplicate Irises used.
+“312” – FMR and FIR cannot be used in same transaction.
+“313” – Single FIR record contains more than one finger.
+“314” – Number of FMR/FIR should not exceed 10.
+“315” – Number of IIR should not exceed 2.
+“316” – Number of FID should not exceed 1.
+“330” – Biometrics locked by Aadhaar holder.
+“400” – Invalid OTP value.
+“402” – “txn” value did not match with “txn” value used in Request OTP API.
+“500” – Invalid encryption of session key.
+“501” – Invalid certificate identifier in “ci” attribute of “Skey”.
+“502” – Invalid encryption of PID.
+“503” – Invalid encryption of Hmac.
+“504” – Session key re-initiation required due to expiry or key out of sync.
+“505” – Synchronized Key usage not allowed for the AUA.
+https://www.uidai.gov.in/en/authentication
+
+17/30
+
+
+22/10/2026, 12:35
+
+Authentication - Unique Identification Authority of India | Government of India
+
+“510” – Invalid Auth XML format.
+“511” – Invalid PID XML format.
+“512” – Invalid Aadhaar holder consent in “rc” attribute of “Auth”.
+“520” – Invalid “tid” value.
+“521” – Invalid “dc” code under Meta tag.
+“524” – Invalid “mi” code under Meta tag.
+“527” – Invalid “mc” code under Meta tag.
+“530” – Invalid authenticator code.
+“540” – Invalid Auth XML version.
+“541” – Invalid PID XML version.
+“542” – AUA not authorized for ASA. This error will be returned if AUA and ASA do
+not have linking in the portal.
+“543” – Sub-AUA not associated with “AUA”. This error will be returned if Sub-AUA
+specified in “sa” attribute is not added as “Sub-AUA” in portal.
+“550” – Invalid “Uses” element attributes.
+“551” – Invalid “tid” value.
+“553” – Registered devices currently not supported. This feature is being
+implemented in a phased manner.
+“554” – Public devices are not allowed to be used.
+“555” – rdsId is invalid and not part of certification registry.
+“556” – rdsVer is invalid and not part of certification registry.
+“557” – dpId is invalid and not part of certification registry.
+“558” – Invalid dih. “559” – Device Certificate has expired.
+“560” – DP Master Certificate has expired.
+“561” – Request expired (“Pid->ts” value is older than N hours where N is a
+configured threshold in authentication server).
+“562” – Timestamp value is future time (value specified “Pid->ts” is ahead of
+authentication server time beyond acceptable threshold).
+“563” – Duplicate request (this error occurs when exactly same authentication
+request was re-sent by AUA).
+https://www.uidai.gov.in/en/authentication
+
+18/30
+
+
+22/10/2026, 12:35
+
+Authentication - Unique Identification Authority of India | Government of India
+
+“564” – HMAC Validation failed.
+“565” – AUA license has expired.
+“566” – Invalid non-decryptable license key.
+“567” – Invalid input (this error occurs when unsupported characters were found
+in Indian language values, “lname” or “lav”).
+“568” – Unsupported Language.
+“569” – Digital signature verification failed (means that authentication request
+XML was modified after it was signed).
+“570” – Invalid key info in digital signature (this means that certificate used for
+signing the authentication request is not valid – it is either expired, or does not
+belong to the AUA or is not created by a well-known Certification Authority).
+“571” – PIN requires reset.
+“572” – Invalid biometric position.
+“573” – Pi usage not allowed as per license.
+“574”– Pa usage not allowed as per license.
+“575”– Pfa usage not allowed as per license.
+“576” - FMR usage not allowed as per license.
+“577” – FIR usage not allowed as per license.
+“578” – IIR usage not allowed as per license.
+“579” – OTP usage not allowed as per license.
+“580” – PIN usage not allowed as per license.
+“581” – Fuzzy matching usage not allowed as per license.
+“582” – Local language usage not allowed as per license.
+“586” – FID usage not allowed as per license. This feature is being implemented
+in a phased manner.
+“587” – Name space not allowed.
+“588” – Registered device not allowed as per license.
+“590” – Public device not allowed as per license.
+“710” – Missing “Pi” data as specified in “Uses”.
+“720” – Missing “Pa” data as specified in “Uses”.
+https://www.uidai.gov.in/en/authentication
+
+19/30
+
+
+22/10/2026, 12:35
+
+Authentication - Unique Identification Authority of India | Government of India
+
+“721” – Missing “Pfa” data as specified in “Uses”.
+“730” – Missing PIN data as specified in “Uses”.
+“740” – Missing OTP data as specified in “Uses”.
+“800” – Invalid biometric data.
+“810” – Missing biometric data as specified in “Uses”.
+“811” – Missing biometric data in CIDR for the given Aadhaar number.
+“812” – Aadhaar holder has not done “Best Finger Detection”. Application should
+initiate BFD to help Aadhaar holder identify their best fingers.
+“820” – Missing or empty value for “bt” attribute in “Uses” element.
+“821” – Invalid value in the “bt” attribute of “Uses” element.
+“822” – Invalid value in the “bs” attribute of “Bio” element within “Pid”.
+“901” – No authentication data found in the request (this corresponds to a
+scenario wherein none of the auth data – Demo, Pv, or Bios – is present).
+“902” – Invalid “dob” value in the “Pi” element (this corresponds to a scenarios
+wherein “dob” attribute is not of the format “YYYY” or “YYYYMM-DD”, or the age is
+not in valid range).
+“910” – Invalid “mv” value in the “Pi” element.
+“911” – Invalid “mv” value in the “Pfa” element.
+“912” – Invalid “ms” value.
+“913” – Both “Pa” and “Pfa” are present in the authentication request (Pa and Pfa
+are mutually exclusive).
+“930 to 939” – Technical error that are internal to authentication server.
+“940” – Unauthorized ASA channel.
+“941” – Unspecified ASA channel.
+“950” – OTP store related technical error.
+“951” – Biometric lock related technical error.
+“980” – Unsupported option.
+“995” – Aadhaar suspended by competent authority.
+“996” – Aadhaar cancelled (Aadhaar is no in authenticable status).
+“997” – Aadhaar suspended (Aadhaar is not in authenticatable status).
+https://www.uidai.gov.in/en/authentication
+
+20/30
+
+
+22/10/2026, 12:35
+
+Authentication - Unique Identification Authority of India | Government of India
+
+“998” – Invalid Aadhaar Number.
+“999” – Unknown error.
+Can Aadhaar Authentication History be accessed without a registered
+mobile number?
+
+No
+Can I download or print my Aadhaar Authentication History?
+
+Yes, Aadhaar number holders can view and download/print their authentication
+history from the UIDAI portal for personal reference, subject to the available
+records within the selected date range.
+Is there any limit for downloding my Aadhaar Authentication History? For
+how many months Aadhaar Authentication History may be downloaded
+
+6 Months
+What should I do if I notice frequent unknown authentication attempts?
+
+"If multiple unknown or suspicious authentication attempts are observed, the
+Aadhaar holder should immediately:
+1. Lock your Aadhaar biometrics (or Aadhaar) from the UIDAI website or Aadhaar
+app so that no one can use your biometrics without your consent
+2. Contact the concerned Authentication User Agency (AUA)
+3. Report the issue to UIDAI at help@uidai.gov.in or helpline number-1947"
+Can I check Aadhaar Authentication History using Virtual ID (VID)?
+
+Yes
+How frequently is Aadhaar Authentication History updated?
+https://www.uidai.gov.in/en/authentication
+
+21/30
+
+
+22/10/2026, 12:35
+
+Authentication - Unique Identification Authority of India | Government of India
+
+Aadhaar Authentication History is updated regularly and reflects authentication
+transactions shortly after they are performed, ensuring near real-time tracking of
+activities.
+Is Aadhaar Authentication History available for organizations or only
+individuals?
+
+Aadhaar Authentication History is available only to Aadhaar number holders
+(individuals) for viewing their own authentication transactions.
+Organizations can see their own AUA‑level transaction logs (for their systems),
+but they cannot directly view another person’s Aadhaar Authentication History
+
+Aadhaar Data vault (ADV) /
+Hardware Security Module (HSM)
+What do you mean by Aadhaar related data?
+
+Aadhaar related data means Aadhaar number along with demographics details
+i.e. Name, DoB, Gender, Address and Photo, email ID or mobile number.
+What are reference keys?
+
+In order to minimize the footprints of the Aadhaar numbers and its connected
+data within the infrastructure of REs, each Aadhaar number is to be referred by
+an additional key called Reference Key. These keys will replace Aadhaar numbers
+in the organizations ecosystem. Mapping of reference key and Aadhaar number
+is to be maintained in the Aadhaar Data Vault.
+What is Hardware Security Module (HSM)?
+https://www.uidai.gov.in/en/authentication
+
+22/30
+
+
+22/10/2026, 12:35
+
+Authentication - Unique Identification Authority of India | Government of India
+
+A Hardware Security Module (HSM) is a tamper-resistant physical device
+mandated for securely generating, protecting, and managing cryptographic keys
+used in Aadhaar authentication and e-KYC transactions. All private keys for digital
+signing of authentication XML and for decrypting e-KYC data must reside only
+within the HSM, never outside it, to ensure high-grade security and compliance
+with FIPS 140-2 Level 3.
+What is objective of HSM?
+
+The objective of a Hardware Security Module (HSM) is to provide a dedicated,
+tamper-resistant environment for the secure generation, storage, and
+management of cryptographic keys.
+Can a single HSM be shared between AUA/KUA and their Sub-AUAs/Sub
+KUAs?
+
+Sub-AUA/Sub-KUA may use their respective AUA’s/KUA’s HSM, subject to
+adherence to the following stipulations:
+1. The HSM configuration must ensure logical isolation for each RE.
+2. Dedicated cryptographic keys for each RE shall be provisioned and maintained
+within the logical isolation of HSM.
+3. Implementation of Identity & Access Management (IAM) to control and
+monitor all access to cryptographic keys and associated interfaces.
+4. Multifactor authentication, Multirole-based Access Control and robust Audit
+Logging must be enforced to safeguard access and to provide traceability for
+all cryptographic operations.
+Can existing HSMs be used for storing the encryption keys?
+
+REs may use their existing HSM for storing the keys used for encryption of data
+stored in Aadhaar data vault. However, these keys cannot be shared with any
+https://www.uidai.gov.in/en/authentication
+
+23/30
+
+
+22/10/2026, 12:35
+
+Authentication - Unique Identification Authority of India | Government of India
+
+other RE, except for their authorized Sub-AUAs/KUAs. To facilitate this, the
+AUAs/KUAs must provide a separate logical partition within the HSM for each of
+its Sub-AUAs/Sub-KUAs to store the respective encryption keys including IP
+whitelisting. REs is responsible for ensuring the security of the partitions that
+store Aadhaar data vault keys.
+Is it allowed to store Aadhaar Number and connected data in other systems
+than vault if the system provides HSM level encryption for storage / usage of
+Aadhaar Number
+
+All REs are directed to mandatorily store Aadhaar numbers along with any
+connected Aadhaar data (i.e. eKYC XML containing Aadhaar number and its
+demographic data) in ADV implemented with HSM. If the RE wants to convert the
+existing Database into Aadhaar Data Vault (ADV) complying to latest Circular
+issued by UIDAI time to time, such RE may do so. In that case, the RE must
+ensure that the Aadhaar numbers are only stored on this ADV and removed from
+other databases.
+What is Aadhaar Data Vault?
+
+Aadhaar Data Vault is a separate secure database/vault/system for Aadhaar data
+(i.e. Ekyc XML containing Aadhaar number and its demographic data) received by
+the requesting entities (RE) for specific purposes approved under Aadhaar Act, 2
+0 1 6 and associated Regulations thereunder. It is established along with HSM.
+What is the objective of Aadhaar Data Vault?
+
+Objective of Aadhaar Data Vault is to minimize footprints of the Aadhaar
+numbers by encrypting it and its connected data and before securely storing it
+within the infrastructure of REs.
+Who needs to implement Aadhaar Data Vault?
+https://www.uidai.gov.in/en/authentication
+
+24/30
+
+
+22/10/2026, 12:35
+
+Authentication - Unique Identification Authority of India | Government of India
+
+All REs storing full Aadhaar number along with any connected Aadhaar data in
+accordance with the Aadhaar Act, 2016 and associated regulations and any
+directions/guidelines issued hereafter are required to implement Aadhaar data
+vault.
+Are there any implementation guidelines for Aadhaar Data Vault?
+
+Yes, UIDAI has issued implementation guidelines for ADV which is published
+under Authentication documents at uidai.gov.in on below mentioned link:
+(https://uidai.gov.in/en/authentication-documents)
+What data needs to be stored mandatorily in ADV?
+
+Full Aadhaar number along with any connected Aadhaar data (i.e. eKYC XML
+containing Aadhaar number and its demographic data) received by the
+requesting entities (RE) from e-KYC response must be stored only within ADV.
+Aadhaar number or related data provided by Aadhaar Number Holder (ANH) in
+Authentication application submitted for authentication (mobile/web) is
+prohibited to be stored by the RE in any form.
+For Sub-AUAs/Sub-KUAs, is it mandatory to implement a dedicated ADV at
+their end or can they utilize their AUA’s/KUA’s ADV?
+
+Sub-AUAs/Sub-KUAs may implement their own ADV or use their respective
+AUA’s/KUA’s ADV as-a-service subject to implementation of Identity & Access
+Management (IAM) and ensuring logical segregation. In addition, Sub-AUAs/SubKUAs are fully responsible for ensuring compliance with respect to the Aadhaar
+Act, 2016 and associated regulations as amended thereafter.
+Can an AUA/KUA access the data in ADV for their Sub-AUAs/Sub-KUAs?
+
+No, AUA/KUA cannot access any data in ADV of their Sub-AUAs/Sub-KUAs.
+https://www.uidai.gov.in/en/authentication
+
+25/30
+
+
+22/10/2026, 12:35
+
+Authentication - Unique Identification Authority of India | Government of India
+
+Is it required to replace all the Aadhaar number with the reference keys
+which are being used in the existing infrastructure in multiple databases?
+
+RE needs to create an Aadhaar data vault and replace Aadhaar numbers in all
+existing databases with the respective reference keys even if Aadhaar number is
+stored encrypted in several databases within the RE.
+Can demographic details (received from e-KYC) be stored locally if Aadhaar
+and UID Token are not stored with it?
+
+Yes, demographic details can also be stored locally if Aadhaar and UID token are
+not stored/mapped with it by taking reasonable security safeguards to prevent
+breach of such data, which shall include, at the minimum, appropriate data
+security measures, including securing such data through encryption, obfuscation
+or masking.
+Can UID Token alone (without demographic details) be stored locally?
+
+Yes, UID token can be stored safely without encryption after its mapping with
+reference key by taking reasonable security safeguards to prevent breach of such
+data, which shall include, at the minimum, appropriate data security measures.
+If an entity wants to store the Aadhaar pdf (received from eKYC response)
+locally, is it permissible from UIDAI side?
+
+No, Aadhaar pdf (received from eKYC response) shall only be stored in encrypted
+manner inside ADV.
+Who all can provide Aadhaar Data Vault as-a-service?
+
+All existing global AUAs/KUAs (implemented a fully compliant ADV), CSPs
+providing ADV as a service hosted on GCC empaneled cloud or a technical service
+provider providing on- premises services of ADV can provide ADV as-a-service.
+https://www.uidai.gov.in/en/authentication
+
+26/30
+
+
+22/10/2026, 12:35
+
+Authentication - Unique Identification Authority of India | Government of India
+
+Which encryption algorithm is required for encryption of Aadhaar numbers
+and related data in the Aadhaar Data Vault?
+
+The encryption algorithm and key strength required for securing Aadhaar
+numbers and related data in the Aadhaar Data Vault must comply with the latest
+UIDAI specification, API 2.5 for Authentication and eKYC. These specifications are
+subject to change, and regulated entities must refer to the latest UIDAI
+documentation for updated requirements.
+Is it possible to use existing unique values, such as Bank account numbers
+or PAN numbers, for an entity to be used as reference keys?
+
+The organization may use any reference keys as long as it can be uniquely
+mapped to the respective Aadhaar numbers and meets the requirement of the
+UIDAI Circulars regarding ADV implementation, such as Aadhaar numbers should
+not be predictable if corresponding reference keys or set of keys are available.
+Organization should consider other implications of using Bank account / PAN
+card as reference keys which may be local to the environment.
+Can multiple reference keys be generated and used with a single Aadhaar?
+
+Multiple reference keys may be generated for a single Aadhaar if there is such
+business case which requires to refer one Aadhaar by different reference keys in
+the internal ecosystem of the RE. In such cases, the R E shall ensure compliance
+to the other requirements specified in the UIDAI Circulars/Guidelines on the ADV,
+as issued by UIDAI time-to-time.
+What is the nomenclature / convention to be followed for Unique Reference
+Number Generation for Aadhaar?
+
+This is left to organization to choose nomenclature/convention as long as it
+ensures that the recovery of the original Aadhaar number must not be
+https://www.uidai.gov.in/en/authentication
+
+27/30
+
+
+22/10/2026, 12:35
+
+Authentication - Unique Identification Authority of India | Government of India
+
+computationally feasible knowing only the reference key or numbers of reference
+keys. Hash of Aadhaar No. should not be used as reference key.
+Content Information
+As Aadhaar number is used for carrying out DBT transactions, etc., will the
+Published
+on: 30beApr
+2026 Last
+Updated:
+16 Oct
+2026 Owner:
+A&V
+Aadhaar
+number
+continued
+to be
+used while
+processing
+the transactions?
+
+Aadhaar number may be used wherever necessary to process the transactions,
+however when the transaction related data or Aadhaar related data is stored,
+Aadhaar numbers should not be stored in any other storage than Aadhaar Data
+Vault.
+
+About UIDAI
+
+Aadhaar Services
+
+Documents
+
+Quick Links
+
+Vision & Mission
+
+Download Aadhaar
+
+My Aadhaar Portal
+
+Aadhaar Dashboard
+
+Update Aadhaar
+
+Enrolment & Update
+Forms
+
+Citizens Charter
+
+Check Aadhaar Status
+
+Handbooks
+
+Seva Kendra Locator
+
+Annual Reports
+
+Order PVC Card
+
+Annual Reports
+
+Developer Sandbox
+
+Circulars
+
+Career Portal
+
+Policies
+
+Become an OVSE
+
+Generate VID
+Retrieve Lost UID
+
+https://www.uidai.gov.in/en/authentication
+
+Aadhaar App
+
+28/30
+
+

@@ -1,0 +1,114 @@
+[
+ {
+  "doc_id": "faq_myaadhaar",
+  "file": "FAQ- MYAadhar.pdf",
+  "pages": 25,
+  "ocr_pages": 0,
+  "words": 7279
+ },
+ {
+  "doc_id": "faq_online_services",
+  "file": "FAQ- MYAadharOnline_Services.pdf",
+  "pages": 16,
+  "ocr_pages": 0,
+  "words": 3801
+ },
+ {
+  "doc_id": "faq_authentication",
+  "file": "FAQ- MYAadhar_Authentication.pdf",
+  "pages": 27,
+  "ocr_pages": 0,
+  "words": 6718
+ },
+ {
+  "doc_id": "faq_1",
+  "file": "FAQ-Aadhar App.pdf",
+  "pages": 7,
+  "ocr_pages": 0,
+  "words": 1990
+ },
+ {
+  "doc_id": "faq_enrolment",
+  "file": "FAQ-AadharEnrollment.pdf",
+  "pages": 56,
+  "ocr_pages": 0,
+  "words": 16367
+ },
+ {
+  "doc_id": "form1_resident_adult",
+  "file": "For (a) Resident Indian, or (b) Non-Resident Indian having Proof of Address in India (aged 18 years and above)  English.pdf",
+  "pages": 2,
+  "ocr_pages": 0,
+  "words": 1343
+ },
+ {
+  "doc_id": "form2_nri_abroad_adult",
+  "file": "For Non-Resident Indian having Proof of Address outside India (aged 18 years and above)  English.pdf",
+  "pages": 2,
+  "ocr_pages": 0,
+  "words": 1271
+ },
+ {
+  "doc_id": "form3_resident_child_5_18",
+  "file": "For (a) Resident Indian child, or (b) Non-Resident Indian child having Proof of Address in India (aged 5 years and above and less than 18 years)  Engli.pdf",
+  "pages": 2,
+  "ocr_pages": 0,
+  "words": 1290
+ },
+ {
+  "doc_id": "form4_nri_abroad_child_5_18",
+  "file": "For Non-Resident Indian child having Proof of Address outside India (aged 5 years and above and less than 18 years)  English.pdf",
+  "pages": 2,
+  "ocr_pages": 0,
+  "words": 1217
+ },
+ {
+  "doc_id": "form5_resident_child_u5",
+  "file": "For (a) Resident Indian child, or (b) Non-Resident Indian child having Proof of Address in India (below 5 years of age)  English.pdf",
+  "pages": 2,
+  "ocr_pages": 0,
+  "words": 1407
+ },
+ {
+  "doc_id": "form6_nri_abroad_child_u5",
+  "file": "For Non-Resident Indian child having Proof of Address outside India (below 5 years of age)  English.pdf",
+  "pages": 2,
+  "ocr_pages": 0,
+  "words": 1297
+ },
+ {
+  "doc_id": "form7_foreign_adult",
+  "file": "For Resident Foreign National (aged 18 years or above)  English.pdf",
+  "pages": 3,
+  "ocr_pages": 0,
+  "words": 1489
+ },
+ {
+  "doc_id": "form8_foreign_minor",
+  "file": "For Resident Foreign National (aged below 18 years)  English.pdf",
+  "pages": 3,
+  "ocr_pages": 0,
+  "words": 1431
+ },
+ {
+  "doc_id": "acceptable_docs_list",
+  "file": "List of Acceptable Document for Aadhaar Enrolment and Update  English.pdf",
+  "pages": 22,
+  "ocr_pages": 1,
+  "words": 8675
+ },
+ {
+  "doc_id": "handbook",
+  "file": "Resident Handbook English 2021.pdf",
+  "pages": 68,
+  "ocr_pages": 5,
+  "words": 17623
+ },
+ {
+  "doc_id": "sop_name_update",
+  "file": "Standard operating Procedure (SOP) to be followed for updating name in Aadhaar.pdf",
+  "pages": 11,
+  "ocr_pages": 11,
+  "words": 2456
+ }
+]

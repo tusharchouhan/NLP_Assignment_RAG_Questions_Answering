@@ -1,0 +1,331 @@
+FORM 7: Aadhaar Enrolment and Update
+For Resident Foreign National (aged 18 years or above)
+Please follow the instructions given below this form and use only upper case (block or capital) letters.
+1 Purpose:
+Enrolment
+OR
+Update
+2 Nationality:
+3 Documents presented in support of nationality and eligibility:
+(a) Details of valid Foreign Passport: (i) Passport number:
+(DDMMYYYY) (iii) Date of entry in India:
+(DDMMYYYY)
+(ii) Passport expiry date:
+AND
+(b) Details of valid Overseas Citizen of India (OCI) card Holder : (i) OCI number:
+(DDMMYYYY) (iii) e-FRRO Registration number:
+(ii) Date of issue of OCI card:
+OR
+(c) Details of valid Long Term Visa (LTV): (i) LTV number:
+(DDMMYYYY) (iii) Date of expiry of LTV:
+(DDMMYYYY)
+(ii) Date of issue of LTV:
+OR
+(DDMMYYYY)
+(d) Details of valid Indian visa:
+(i) Visa type/category:
+(ii) Date of issue:
+(DDMMYYYY) (iv) e-FRRO Registration number:
+(iii) Date of expiry:
+OR, as an alternative to Foreign Passport along with OCI/LTV/Visa, only for nationals of Nepal and Bhutan:
+(e) Types of the two Proof of Identity (POI) documents presented:
+(See “List of acceptable supporting documents” displayed on the website of UIDAI and enrolment centres)
+
+(i) First POI document:
+(ii) Second POI document:
+4 Demographic information (For update, please fill only the information to be updated):
+(a) Name:
+(Please fill as given in the document presented in support of the POI, while omitting any titles, honorifics and aliases)
+
+(b) Gender:
+Female
+(c) Date of Birth:
+OR
+(DDMMYYYY) OR Age:
+years
+Male
+Verified OR
+Declared OR
+Approximate (only for age)
+(For declared or approximate, only year of declared/approximate birth will be printed on Aadhaar card)
+Third gender / Transgender
+(d) Email (mandatory):
+(e) Mobile number:
+5 Basis of enrolment/update:
+Document verification OR
+Confirmation by Head of Family (HoF)
+6 For document-based enrolment/update, additional demographic information and documents presented:
+(Address information should be filled only in case of enrolment or update of address)
+
+(a) Address:
+House no. / Building / Flat no.:
+Street:
+Landmark:
+Ward no.:
+Area/Locality/Sector:
+Village/Town/City:
+Post Office (mandatory):
+PIN code (mandatory):
+Sub-district:
+District:
+State:
+(b) Type of documents presented: (i) Proof of Identity (POI):
+(See “List of acceptable supporting
+(ii) Proof of Address (POA):
+documents” displayed on the website of
+(iii) Proof of Date of Birth (PDB) (optional):
+UIDAI and enrolment centres)
+7 For HoF-based enrolment or update of address, additional information and documents presented:
+(a) Details of HoF: (i) Name:
+Aadhaar no.:
+(ii) Relationship with applicant:
+Mother
+Father
+Legal guardian
+Other relationship (only for address update):
+Spouse
+Child/ward
+Sibling
+(b) Type of Proof of Relationship (POR) document presented:
+(See “List of acceptable supporting documents” displayed on the website of UIDAI and enrolment centres)
+
+I confirm the identity of the applicant named above and that she/he is related to me as mentioned. I hereby consent that the
+address recorded against my Aadhaar number may be recorded as the address against the Aadhaar number of the applicant.
+Signature of HoF:
+8 For update, additional information:
+(a) Aadhaar number of applicant:
+(b) Information to be updated:
+Gender
+Address
+
+Biometric (photo, fingerprints and irises)
+Name
+Date of Birth
+Mobile
+Email
+Update of POI and POA documents
+
+
+Declaration
+1. I hereby confirm and declare that—
+(a) all the information and documents submitted is correct to the best of my knowledge and belief;
+(b) I am entitled to the documents/information evidencing proofs cited above; and
+(c) I am a foreign national and resident of India (resided in India for 182 days or more in 12 months immediately preceding
+my enrolment application).
+2. I understand that if the above declaration is found to be incorrect, my Aadhaar number may be deactivated and, in addition,
+action may be taken against me as per law.
+3. I understand that the above information may be used, disclosed or shared in accordance with the Aadhaar (Targeted Delivery
+of Financial and Other Subsidies, Benefits and Services) Act, 2016 and regulations made thereunder.
+4. I hereby give my consent for electronically obtaining information evidencing proof of identity, address, birth and/or
+relationship from the databases of the authorities dealing with the preparation or maintenance of such information and for
+sharing the above information and documents with government agencies and/or any such authority, for the purpose of
+verification.
+Signature of verifier:
+Signature / thumb impression of applicant*:
+Name of verifier:
+Date and time:
+* In case applicant is a person with disability, in respect of whom a lawful guardian is appointed and such guardianship extends to
+providing of the consent sought, such guardian shall present document in support of the same and sign the application.
+
+
+Instructions for filling Form 7
+S.
+No.
+1
+2
+3
+(a)
+(b)
+(c)
+(d)
+(e)
+4
+(a)
+
+Item
+
+Instruction
+
+Purpose
+Please tick (✔) only one, as applicable.
+Nationality
+Please fill details.
+Documents presented in support of nationality and eligibility:
+Please fill details as applicable.
+Details of valid Foreign
+Passport
+Details of valid OCI card
+Please fill details as applicable.
+Details of valid LTV
+Please fill details as applicable.
+Please fill details as applicable.
+Details of valid Indian visa
+Types of 2 POI documents
+Please fill details as applicable.
+presented
+Demographic information:
+Name
+(1) Please fill details as applicable.
+(2) Please omit courtesy title (Mr, Ms, Mrs, Shri, Smt., Thiru, Thirumati etc.), honorific (Dr,
+
+Mandatory or
+optional
+Mandatory
+Mandatory
+(a) along with (b),
+(c) or (d),
+OR
+For nationals of
+Nepal and
+Bhutan, (e)
+is mandatory
+Mandatory
+
+Prof., Sir, Justice, defence service rank, ecclesiastical title, etc.),
+profession/qualification/service (Dr, Er., CA, Adv., IAS, IPS, IFS etc.) and alias (urf, a.k.a.
+etc.), even if figuring in the document.
+(b)
+
+(c)
+
+Gender
+
+Please fill details of DOB or age, as applicable.
+Tick (✔) only one, as applicable, among “Verified”, “Declared” or “Approximate”.
+“Verified” should be ticked if Proof of Date of Birth (PDB) is available and being presented.
+If PDB is not available, the applicant may give either declared date of birth (DOB) or
+approximate age, in which case only the year of birth will be printed on Aadhaar card.
+Please tick (✔) only one, as applicable.
+
+(d)
+
+Email
+
+Please fill details as applicable.
+
+Mandatory
+
+(e)
+
+Mobile number
+
+Optional
+
+5
+
+Basis of enrolment/update
+
+(1) Please fill details as applicable.
+(2) In case of a non-Indian mobile number, no SMS / text message will be sent to the same.
+Please tick (✔) only one, as applicable.
+
+6
+
+For document-based enrolment/update, additional demographic information and documents presented:
+
+(a)
+
+Address
+
+(b)
+
+7
+(a)
+
+Date of Birth (DOB) or Age
+
+(1)
+(2)
+(3)
+(4)
+
+Mandatory
+
+(1)
+(2)
+(3)
+
+Please fill details as applicable.
+PIN code and Post Office are mandatory.
+Details of Village/Town/City, Sub-district, District and State will be auto-populated by the
+enrolment software based on the PIN code.
+(4) Minor variations in the address as filled from that as given in the POA document may be
+permitted.
+(5) Aadhaar letter will be despatched through India Post to the address as filled.
+Type of documents presented (1) The document type should be from among those specified in the “List of acceptable supporting
+documents”, displayed on the website of UIDAI and enrolment centres.
+(2) Original documents must be presented. The same shall be returned after making an electronic
+copy and verifying the same against the originals.
+For HoF-based enrolment or update of address, additional information and documents presented:
+Details of HoF
+(1) Please fill details as applicable in (i).
+(2) Please tick (✔) only one, as applicable, in (ii).
+(3) For HoF-based enrolment, HoF must be 18 years or more in age and be the mother, father or
+legal guardian of the applicant.
+(4) For HoF-based update of address, HoF must be 18 years or more in age and be the
+
+Mandatory
+
+Mandatory
+Mandatory
+
+Mandatory
+
+Mandatory
+
+applicant’s mother, father, legal guardian, spouse, child/ward or sibling.
+(b)
+
+(1) The document type should be from among those specified in the “List of acceptable supporting
+documents”, displayed on the website of UIDAI and enrolment centres.
+(2) Original documents must be presented. The same shall be returned after making an electronic
+copy and verifying the same against the originals.
+For update, additional information:
+
+Mandatory
+
+(a)
+
+Aadhaar number of applicant Please fill details as applicable.
+
+Mandatory
+
+(b)
+
+Information to be updated
+
+Mandatory
+
+8
+
+Type of Proof of
+Relationship (POR)
+document presented
+
+Please tick (✔) one or more as applicable.
+
+Fee for Enrolment and Update Services at Enrolment Centre
+S. no.
+Service
+Fee
+1
+Enrolment
+₹ [*]
+2
+Update of biometric information (photo,
+₹ [*]
+fingerprints and irises)
+3
+Update of demographic information (name,
+(a) If done at the same time as update of biometric information: Free
+gender, date of birth, address, mobile number or
+(b) If done separately, for all or any demographic information: ₹ [*]
+email address)
+4
+₹ [*]
+Update of POI and POA document (evidencing
+proof of identity and address)
+* As authorised by UIDAI from time to time, under clause (o) of sub-section (2) of section 23 of the Aadhaar (Targeted Delivery of Financial and Other
+Subsidies, Benefits and Services) Act, 2016
+
+
